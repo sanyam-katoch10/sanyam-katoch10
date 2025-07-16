@@ -1,43 +1,91 @@
-# Hi there, I'm Sanyam Katoch 👋
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="waving hand" />
+</p>
 
-## 🚀 About Me
-I'm a passionate software developer specializing in **AI and ML**. I love building scalable and efficient applications, exploring new technologies, and contributing to open-source projects.
+<h1 align="center">Hi, I'm <a href="https://github.com/your_github_username" target="_blank">Your Name</a> 👋</h1>
 
-- 🔭 Currently working on: **[Your current project or role]**
-- 🌱 Learning: **[Technologies you’re currently learning]**
-- 👯 Looking to collaborate on: **[Project types or domains]**
-- 💬 Ask me about: **JavaScript, C++, Web Development, Algorithms**
-- ⚡ Fun fact: **[Something interesting about you]**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=500&color=2E8B57&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+Developer;Building+Innovative+Solutions;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/your_github_username?s=150" alt="Your Name" width="120" style="border-radius: 50%;" />
+</p>
 
 ---
 
-## 🛠 Skills & Technologies
+## 🚀 About Me
+- 🔭 I’m currently working on **[Your Project/Role]**
+- 🌱 I’m currently learning **[Technologies or Concepts]**
+- 👯 I’m looking to collaborate on **[Open Source / Projects]**
+- 💬 Ask me about **C++, Python, Web Development, Algorithms**
+- ⚡ Fun fact: **I love turning coffee into code ☕💻**
 
-| Languages         | Frameworks & Libraries     | Tools & Platforms            |
-|-------------------|----------------------------|-----------------------------|
-| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=for-the-badge&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black) |
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=radical" alt="GitHub Streak" />
+</p>
 
----
-
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-
----
-
-### ⚡ Fun Fact  
-_"The best way to predict the future is to invent it."_ — Alan Kay
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your_github_username&theme=radical" alt="GitHub Trophies" />
+</p>
 
 ---
 
-<!-- Proudly created with ❤️ using https://github.com/othneildrew/Best-README-Template -->
+## 🌐 Find Me Around the Web
+
+<p align="center">
+  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your_twitter" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your_leetcode" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 📈 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/your_github_username/count.svg" alt="Profile Views" />
+</p>
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
+---
+
+<p align="center">
+  <em>Made with ❤️ by <a href="https://github.com/your_github_username">Your Name</a></em>
+</p>
