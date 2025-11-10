@@ -58,18 +58,10 @@
 
 ---
 
-## 📈 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/your_github_username/count.svg" alt="Profile Views" />
-</p>
-
----
-
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
 
 ---
 
 <p align="center">
-  <em>Made with ❤️ by <a href="https://github.com/your_github_username">Your Name</a></em>
+  <em>Made with ❤️ by <a href="https://github.com/sanyam-katoch10">Sanyam Katoch</a></em>
 </p>
