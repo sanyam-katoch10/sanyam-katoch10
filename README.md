@@ -16,9 +16,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Your Project/Role]**
-- 🌱 I’m currently learning **[Technologies or Concepts]**
-- 👯 I’m looking to collaborate on **[Open Source / Projects]**
+- 🔭 I’m currently working on **Internships**
+- 🌱 I’m currently learning **Deep Learning**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **C++, Python, Web Development, Algorithms**
 - ⚡ Fun fact: **I love turning coffee into code ☕💻**
 
@@ -29,9 +29,8 @@
 <p align="center">
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
