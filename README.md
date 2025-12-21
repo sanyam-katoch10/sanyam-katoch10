@@ -80,13 +80,8 @@
          onmouseout="this.style.transform='scale(1)';" />
   </a>
 
-  <!-- Project Description -->
-  <p style="color:#06B6D4; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
-    🚀 An ML-powered CAPTCHA refinement system that intelligently balances human usability and bot resistance with real-time adaptive learning.
-  </p>
-
   <!-- Live Demo Badge -->
-  <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:5px; display:inline-block;">
+  <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:10px; display:inline-block;">
     <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 
