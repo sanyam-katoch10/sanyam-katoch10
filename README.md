@@ -19,7 +19,7 @@
 
 ---
 
-## 🔮 Ultimate Slithering Neon Snake
+## 🔮 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" width="700" alt="Slithering Neon Snake" />
