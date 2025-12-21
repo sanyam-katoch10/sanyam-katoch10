@@ -70,28 +70,32 @@
 
 <h2 align="center">⭐ Featured Project</h2>
 
-<div align="center" style="margin-bottom:25px;">
-  <!-- Project Repo Badge -->
-  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank">
-    <img src="https://img.shields.io/badge/BotShield_ML--CAPTCHA--Refinement--System-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <!-- Project Description -->
-  <p style="color:#06B6D4; margin:10px 0; font-weight:bold; max-width:700px;">
-    🚀 An ML-powered CAPTCHA refinement system that intelligently balances human usability and bot resistance with real-time adaptive learning.
-  </p>
-  
-  <!-- Live Demo Badge -->
-  <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-</div>
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
+
+  <!-- BotShield Project -->
+  <div align="center" style="margin:20px;">
+    <!-- GitHub Repo Card -->
+    <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=20" 
+           style="filter: drop-shadow(0 0 25px #8B5CF6); transition: transform 0.3s ease-in-out;" 
+           onmouseover="this.style.transform='scale(1.05)';" 
+           onmouseout="this.style.transform='scale(1)';" />
+    </a>
+    <br/>
+    <!-- Live Demo Badge -->
+    <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:5px; display:inline-block;">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+    </a>
+  </div>
+
+</p>
 
 <p align="center" style="margin-top:15px; color:#06B6D4;">
-  <em>Click on the badge to view the GitHub repository or hit Live Demo to explore the running app!</em>
+  <em>Click on the card to visit the GitHub repository or hit Live Demo to explore the running app!</em>
 </p>
 
 <hr/>
+
 
 
 
