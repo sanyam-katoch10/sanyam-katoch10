@@ -110,6 +110,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=radical&no-frame=true&row=1" />
 </p>
 
+<hr/>
+
+<p align="center" style="font-size:1.3rem; color:#06B6D4; font-style:italic; text-shadow: 0 0 8px #8B5CF6, 0 0 12px #06B6D4;">
+  “Strive not to be a success, but rather to be of value.”<br/>
+  <strong style="color:#FF3CAC;">– Albert Einstein</strong>
+</p>
 
 
 <p align="center" style="color:#06B6D4;">
