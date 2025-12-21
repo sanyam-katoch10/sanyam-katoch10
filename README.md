@@ -106,27 +106,19 @@
 
 <hr/>
 
-<!-- ===================== ULTIMATE NEON SNAKES ===================== -->
-<h2 align="center">🔮 Ultimate Contribution Snakes</h2>
+<!-- ===================== SINGLE BEST NEON SNAKE ===================== -->
+<h2 align="center">🔮 Ultimate Contribution Snake</h2>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:14px;">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-light.svg" />
-    <img class="ultimate-snake" src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-dark.svg"
+            srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" />
+    <img class="ultimate-snake"
+         src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg"
          style="max-width:700px;" />
   </picture>
-
-  <img class="ultimate-snake" src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg"
-       style="max-width:300px; filter: drop-shadow(0 0 25px #A855F7); transform: rotate(-2deg);" />
-
-  <img class="ultimate-snake" src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon2.svg"
-       style="max-width:300px; filter: drop-shadow(0 0 25px #22D3EE); transform: rotate(2deg);" />
-
-  <img class="ultimate-snake" src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon3.svg"
-       style="max-width:300px; filter: drop-shadow(0 0 25px #FACC15); transform: rotate(-1deg);" />
 </div>
 
 <hr/>
