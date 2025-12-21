@@ -14,7 +14,9 @@ jobs:
         with:
           github_user_name: sanyam-katoch10
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-snake-dark.svg?palette=github-dark
+              dist/github-snake-light.svg?palette=github-light
+
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3
