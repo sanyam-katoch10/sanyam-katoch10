@@ -2,10 +2,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=600&color=38BDF8&center=true&vCenter=true&width=700&lines=Passionate+Developer;ML+%7C+Deep+Learning+Enthusiast;Open+Source+Contributor)
 
-## 🔮 Slithering Neon Snake
+## 🔮 Dynamic Slithering Neon Snake
+
+<!-- SNAKE_START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" width="700"/>
+  <img src="output/github-snake-dynamic.svg" width="700"/>
 </p>
+<!-- SNAKE_END -->
 
 ## 🧩 About Me
 🎓 ML & Deep Learning | Open Source Contributor | Coffee → Code ☕
@@ -28,7 +31,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=onedark&no-frame=true&row=1" />
 </p>
 
-
+## 📰 Latest Writing
+<p align="center">
+  <img src="https://github-readme-medium.vercel.app/?username=YOUR_MEDIUM_OR_DEVTO_USERNAME&limit=3&theme=dark" />
+</p>
 
 ## 📅 Weekly Activity
 
