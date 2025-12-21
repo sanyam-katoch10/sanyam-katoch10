@@ -70,38 +70,32 @@
 
 <h2 align="center">⭐ Featured Project</h2>
 
-<div align="center" style="margin:20px; max-width:450px;">
+<div align="center" style="margin:20px; max-width:520px;">
 
-
+  <!-- GitHub Repo Pinned Card -->
   <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=20" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=20&card_width=520" 
          style="filter: drop-shadow(0 0 25px #8B5CF6); transition: transform 0.3s ease-in-out;" 
          onmouseover="this.style.transform='scale(1.05)';" 
          onmouseout="this.style.transform='scale(1)';" />
   </a>
 
-  <br/><br/>
-  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank">
-    <img src="https://img.shields.io/badge/BotShield_ML--CAPTCHA--Refinement--System-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- Description -->
-  <p style="color:#06B6D4; margin:10px 0; font-weight:bold; font-size:14px; line-height:1.4;">
+  <!-- Project Description -->
+  <p style="color:#06B6D4; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
     🚀 An ML-powered CAPTCHA refinement system that intelligently balances human usability and bot resistance with real-time adaptive learning.
   </p>
 
-    <br/>
-    <!-- Live Demo Badge -->
-    <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:5px; display:inline-block;">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </a>
-  </div>
+  <!-- Live Demo Badge -->
+  <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
 
-</p>
+</div>
 
 <p align="center" style="margin-top:15px; color:#06B6D4;">
   <em>Click on the card to visit the GitHub repository or hit Live Demo to explore the running app!</em>
 </p>
+
 
 <hr/>
 
