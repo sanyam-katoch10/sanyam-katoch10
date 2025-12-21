@@ -45,8 +45,12 @@
 ## 🛠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,pandas,seaborn,numpy,matplotlib,opencv,pytorch&theme=dark" style="filter: drop-shadow(0 0 15px #06B6D4);" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,pandas,seaborn,numpy,matplotlib,opencv,pytorch&theme=dark" 
+       style="filter: drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6); transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 30px #06B6D4) drop-shadow(0 0 15px #8B5CF6)';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6)';" />
 </p>
+
 
 ---
 
