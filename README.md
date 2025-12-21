@@ -49,13 +49,17 @@
 ---
 
 ## ⭐ Featured Projects
+<hr/>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 <p align="center">
-[![ML CAPTCHA Demo](https://img.shields.io/badge/Live-Demo-38BDF8?style=for-the-badge&logo=web)](https://botshield0captcha-sam.streamlit.app/)  
-[![Project 2 Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge&logo=web)](https://github.com/sanyam-katoch10/REPO_NAME_2)  
-[![Project 3 Demo](https://img.shields.io/badge/Live-Demo-f43f5e?style=for-the-badge&logo=web)](https://github.com/sanyam-katoch10/REPO_NAME_3)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=14" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=14" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=14" />
 </p>
 
+<hr/>
 ---
 
 ## 📊 GitHub Metrics
