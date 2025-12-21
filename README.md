@@ -1,4 +1,4 @@
-<!-- ===================== NEON-DARK HEADER ===================== -->
+  <!-- ===================== NEON-DARK HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:8B5CF6,100:06B6D4&text=Sanyam%20Katoch&fontSize=60&animation=twinkling&fontColor=ffffff" />
 </p>
@@ -45,10 +45,14 @@
 ## 🛠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,pandas,seaborn,numpy,matplotlib,opencv,pytorch&theme=dark" 
-       style="filter: drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6); transition: transform 0.3s ease-in-out;" 
-       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 30px #06B6D4) drop-shadow(0 0 15px #8B5CF6)';" 
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6)';" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,opencv,pytorch&theme=dark" 
+       style="filter: drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6); transition: transform 0.3s ease-in-out;"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
 
