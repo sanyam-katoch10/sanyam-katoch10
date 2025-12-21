@@ -62,16 +62,18 @@
        style="margin:5px; filter: drop-shadow(0 0 20px #FF8C00);" />
 </p>
 
+
+
 <hr/>
 
 <h2 align="center">⭐ Featured Projects</h2>
 
-<p align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap;">
+<p align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; flex-direction:column;">
 
   <!-- Project 1 -->
-  <div style="text-align:center;">
-    <a href="https://github.com/sanyam-katoch10/ML-Enhanced-CAPTCHA-Refinement" target="_blank" style="text-decoration:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=18" 
+  <div align="center" style="margin-bottom:20px;">
+    <a href="https://github.com/sanyam-katoch10/BOtShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BOtShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=18" 
            style="filter: drop-shadow(0 0 20px #8B5CF6); transition: transform 0.3s ease-in-out;" 
            onmouseover="this.style.transform='scale(1.05)';" 
            onmouseout="this.style.transform='scale(1)';" />
@@ -83,7 +85,7 @@
   </div>
 
   <!-- Project 2 -->
-  <div style="text-align:center;">
+  <div align="center" style="margin-bottom:20px;">
     <a href="https://github.com/sanyam-katoch10/REPO_NAME_2" target="_blank" style="text-decoration:none;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=18" 
            style="filter: drop-shadow(0 0 20px #06B6D4); transition: transform 0.3s ease-in-out;" 
@@ -97,7 +99,7 @@
   </div>
 
   <!-- Project 3 -->
-  <div style="text-align:center;">
+  <div align="center" style="margin-bottom:20px;">
     <a href="https://github.com/sanyam-katoch10/REPO_NAME_3" target="_blank" style="text-decoration:none;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=18" 
            style="filter: drop-shadow(0 0 20px #38BDF8); transition: transform 0.3s ease-in-out;" 
@@ -117,6 +119,7 @@
 </p>
 
 <hr/>
+
 
 
 <!-- ===================== GITHUB METRICS ===================== -->
