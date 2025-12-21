@@ -95,7 +95,7 @@
 <h2 align="center">📊 GitHub Metrics</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -110,17 +110,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=radical&no-frame=true&row=1" />
 </p>
 
-<hr/>
 
-<!-- ===================== LATEST WRITING ===================== -->
-<h2 align="center">📰 Latest Writing</h2>
-<p align="center">
-  <a href="https://medium.com/@sanyam-katoch10" target="_blank" style="color:#06B6D4; text-decoration:none;">
-    Read my latest Medium articles
-  </a>
-</p>
-
-<hr/>
 
 <p align="center" style="color:#06B6D4;">
   <em>Made with ❤️ by <a href="https://github.com/sanyam-katoch10" style="color:#8B5CF6;text-decoration:none;">Sanyam Katoch</a></em>
