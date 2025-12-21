@@ -18,7 +18,6 @@
 
 ## ⭐ Featured Projects
 [![ML CAPTCHA Demo](https://img.shields.io/badge/Live-Demo-38BDF8?style=for-the-badge&logo=web)](https://botshield0captcha-sam.streamlit.app/)
-[![Project 2 Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge&logo=web)](https://github.com/sanyam-katoch10/REPO_NAME_2)
 
 ## 📊 GitHub Metrics
 <p align="center">
@@ -29,11 +28,6 @@
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=onedark&no-frame=true&row=1" />
-</p>
-
-## 📰 Latest Writing
-<p align="center">
-  <img src="https://github-readme-medium.vercel.app/?username=YOUR_MEDIUM_OR_DEVTO_USERNAME&limit=3&theme=dark" />
 </p>
 
 ## 📅 Weekly Activity
