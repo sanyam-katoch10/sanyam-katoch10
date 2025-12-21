@@ -64,31 +64,60 @@
 
 <hr/>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
 <h2 align="center">⭐ Featured Projects</h2>
-<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <a href="https://github.com/sanyam-katoch10/ML-Enhanced-CAPTCHA-Refinement" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=20" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 20px #8B5CF6);" 
-         onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 30px #38BDF8)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #8B5CF6)';" />
-  </a>
 
-  <a href="#" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=20" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 20px #8B5CF6);" 
-         onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 30px #38BDF8)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #8B5CF6)';" />
-  </a>
+<p align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap;">
 
-  <a href="#" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=20" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 20px #8B5CF6);" 
-         onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 30px #38BDF8)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #8B5CF6)';" />
-  </a>
+  <!-- Project 1 -->
+  <div style="text-align:center;">
+    <a href="https://github.com/sanyam-katoch10/ML-Enhanced-CAPTCHA-Refinement" target="_blank" style="text-decoration:none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=18" 
+           style="filter: drop-shadow(0 0 20px #8B5CF6); transition: transform 0.3s ease-in-out;" 
+           onmouseover="this.style.transform='scale(1.05)';" 
+           onmouseout="this.style.transform='scale(1)';" />
+    </a>
+    <br/>
+    <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+    </a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="text-align:center;">
+    <a href="https://github.com/sanyam-katoch10/REPO_NAME_2" target="_blank" style="text-decoration:none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=18" 
+           style="filter: drop-shadow(0 0 20px #06B6D4); transition: transform 0.3s ease-in-out;" 
+           onmouseover="this.style.transform='scale(1.05)';" 
+           onmouseout="this.style.transform='scale(1)';" />
+    </a>
+    <br/>
+    <a href="LIVE_LINK_2" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+    </a>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="text-align:center;">
+    <a href="https://github.com/sanyam-katoch10/REPO_NAME_3" target="_blank" style="text-decoration:none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=18" 
+           style="filter: drop-shadow(0 0 20px #38BDF8); transition: transform 0.3s ease-in-out;" 
+           onmouseover="this.style.transform='scale(1.05)';" 
+           onmouseout="this.style.transform='scale(1)';" />
+    </a>
+    <br/>
+    <a href="LIVE_LINK_3" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+    </a>
+  </div>
+
 </p>
+
+<p align="center" style="margin-top:15px; color:#06B6D4;">
+  <em>Click on any project card to view the repo, or hit the Live Demo to explore the running app!</em>
+</p>
+
 <hr/>
+
 
 <!-- ===================== GITHUB METRICS ===================== -->
 <h2 align="center">📊 GitHub Metrics</h2>
