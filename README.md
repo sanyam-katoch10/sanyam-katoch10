@@ -44,16 +44,22 @@
 
 ## 🛠 Skills
 
+## 🛠 Skills
+
 <p align="center">
+  <!-- Programming Languages & Tools -->
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,opencv,pytorch&theme=dark" 
-       style="filter: drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6); transition: transform 0.3s ease-in-out;"/>
+       style="filter: drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6); margin:5px;" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <!-- Python Data Science Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=06B6D4&labelColor=8B5CF6" style="margin:5px; filter: drop-shadow(0 0 15px #06B6D4);" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=06B6D4&labelColor=8B5CF6" style="margin:5px; filter: drop-shadow(0 0 15px #06B6D4);" />
+  <img src="https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white&color=06B6D4&labelColor=8B5CF6" style="margin:5px; filter: drop-shadow(0 0 15px #06B6D4);" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&color=06B6D4&labelColor=8B5CF6" style="margin:5px; filter: drop-shadow(0 0 15px #06B6D4);" />
 </p>
+
 
 
 ---
