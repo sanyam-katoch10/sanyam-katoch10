@@ -68,7 +68,7 @@
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <h2 align="center">⭐ Featured Projects</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=14" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BOtShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=14" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=14" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=14" />
 </p>
@@ -107,7 +107,7 @@
 <hr/>
 
 <!-- ===================== SINGLE BEST NEON SNAKE ===================== -->
-<h2 align="center">🔮 Ultimate Contribution Snake</h2>
+<h2 align="center">🔮 Contribution Activity</h2>
 
 <div align="center">
   <picture>
