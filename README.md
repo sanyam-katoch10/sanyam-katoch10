@@ -46,20 +46,19 @@
 <h2 align="center">🛠 Skills</h2>
 
 <p align="center">
-  <!-- Programming Languages & Tools -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,opencv,pytorch&theme=dark" 
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,kali,docker,tensorflow,opencv,pytorch&theme=dark" 
        style="filter: drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6); margin:5px;" />
 </p>
 
 <p align="center">
-  <!-- Python Data Science Libraries with “fake logos” -->
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-FF3CAC?style=for-the-badge&logo=pandas&logoColor=ffffff&color=FF3CAC&labelColor=8A2BE2" 
        style="margin:5px; filter: drop-shadow(0 0 20px #FF3CAC);" />
   <img src="https://img.shields.io/badge/NumPy-00FFFF?style=for-the-badge&logo=numpy&logoColor=000000&color=00FFFF&labelColor=1E90FF" 
        style="margin:5px; filter: drop-shadow(0 0 20px #00FFFF);" />
-  <img src="https://img.shields.io/badge/Seaborn-7CFC00?style=for-the-badge&logo=📊&logoColor=ffffff&color=7CFC00&labelColor=32CD32" 
+  <img src="https://img.shields.io/badge/Seaborn-7CFC00?style=for-the-badge&logoColor=ffffff&color=7CFC00&labelColor=32CD32" 
        style="margin:5px; filter: drop-shadow(0 0 20px #7CFC00);" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF8C00?style=for-the-badge&logo=📈&logoColor=ffffff&color=FF8C00&labelColor=FF4500" 
+  <img src="https://img.shields.io/badge/Matplotlib-FF8C00?style=for-the-badge&logoColor=ffffff&color=FF8C00&labelColor=FF4500" 
        style="margin:5px; filter: drop-shadow(0 0 20px #FF8C00);" />
 </p>
 
