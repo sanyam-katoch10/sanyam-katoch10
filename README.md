@@ -68,7 +68,7 @@
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <h2 align="center">⭐ Featured Projects</h2>
 <p align="center">
-  <img src="https://botshield0captcha-sam.streamlit.app/&repo=BOtShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=14" />
+  <img src="github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BOtShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=14" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=14" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=14" />
 </p>
