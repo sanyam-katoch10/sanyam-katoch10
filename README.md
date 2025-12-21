@@ -112,7 +112,7 @@
 ## 📰 Latest Writing
 
 <p align="center">
-  <img src="https://github-readme-medium.vercel.app/?username=YOUR_MEDIUM_OR_DEVTO_USERNAME&limit=3&theme=dark" />
+  <img src="https://github-readme-medium.vercel.app/?username=sanyam-katoch10&limit=3&theme=dark" />
 </p>
 
 ---
