@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Ultimate Contribution Snake
 
 on:
   schedule:
@@ -9,17 +9,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate Ultimate Snakes
         uses: Platane/snk@v3
         with:
           github_user_name: sanyam-katoch10
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
-              dist/github-snake-light.svg?palette=github-light
-                dist/github-snake-neon.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+            dist/github-snake-neon1.svg?palette=github-dark&color_snake=#A855F7
+            dist/github-snake-neon2.svg?palette=github-dark&color_snake=#22D3EE
+            dist/github-snake-neon3.svg?palette=github-dark&color_snake=#FACC15
 
-
-      - name: Publish snake
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
