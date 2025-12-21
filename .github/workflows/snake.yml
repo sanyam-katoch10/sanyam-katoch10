@@ -16,6 +16,7 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
               dist/github-snake-light.svg?palette=github-light
+                dist/github-snake-neon.svg?palette=github-dark
 
 
       - name: Publish snake
