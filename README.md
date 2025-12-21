@@ -87,7 +87,7 @@
          onmouseout="this.style.transform='scale(1)';" />
   </a>
   <p style="color:#8B5CF6; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
-    🔹 Description for your second project goes here. A short, crisp overview of features and purpose.
+    🔹 Description.
   </p>
   <a href="#" target="_blank" style="margin-top:5px; display:inline-block;">
     <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -105,7 +105,7 @@
          onmouseout="this.style.transform='scale(1)';" />
   </a>
   <p style="color:#FF3CAC; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
-    🔹 Description for your third project goes here. A concise summary of its functionality or tech stack.
+    🔹 Description.
   </p>
   <a href="#" target="_blank" style="margin-top:5px; display:inline-block;">
     <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
