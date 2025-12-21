@@ -1,4 +1,4 @@
-  <!-- ===================== NEON-DARK HEADER ===================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:8B5CF6,100:06B6D4&text=Sanyam%20Katoch&fontSize=60&animation=twinkling&fontColor=ffffff" />
 </p>
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠 Skills
+
 
 ## 🛠 Skills
 
