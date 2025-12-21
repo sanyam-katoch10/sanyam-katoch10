@@ -49,8 +49,8 @@
 <h2 align="center">⭐ Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/sanyam-katoch10/ML-Enhanced-CAPTCHA-Refinement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=14" />
+  <a href="https://github.com/sanyam-katoch10/BOtShield_ML-CAPTCHA-Refinement-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BOtShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=14" />
   </a>
 </p>
 
