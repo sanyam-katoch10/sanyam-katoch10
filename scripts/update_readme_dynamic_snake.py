@@ -3,6 +3,10 @@ from github import Github, Auth
 import datetime
 import openai
 from openai import OpenAI
+
+if not os.getenv("OPENAI_API_KEY"):
+    raise ValueError("OPENAI_API_KEY is missing. Add it as a GitHub Actions secret.")
+
 # ---------------- CONFIG ----------------
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
