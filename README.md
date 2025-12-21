@@ -134,17 +134,24 @@
 <hr/>
 
 <h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://github.com/sanyam-katoch10" target="_blank" style="display:block; margin:5px 0;">
+<div align="center" style="margin:10px 0;">
+  <a href="https://github.com/sanyam-katoch10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sanyam-katoch/" target="_blank" style="display:block; margin:5px 0;">
+</div>
+
+<div align="center" style="margin:10px 0;">
+  <a href="https://www.linkedin.com/in/sanyam-katoch/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sanyamkatoch10@gmail.com" target="_blank" style="display:block; margin:5px 0;">
+</div>
+
+<div align="center" style="margin:10px 0;">
+  <a href="mailto:sanyamkatoch10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
+
 
 
 <hr/>
