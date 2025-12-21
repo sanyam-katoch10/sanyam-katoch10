@@ -72,17 +72,36 @@
 
 ## ⭐ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/sanyam-katoch10/ML-Enhanced-CAPTCHA-Refinement" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=radical&border_radius=16&show_owner=true" />
+
+<hr/> 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+<h2 align="center">⭐ Featured Projects</h2>
+
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <a href="https://github.com/sanyam-katoch10/ML-Enhanced-CAPTCHA-Refinement" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=20" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 20px #8B5CF6);" 
+         onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 30px #38BDF8)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #8B5CF6)';" />
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=radical&border_radius=16&show_owner=true" />
+
+  <a href="#" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=20" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 20px #8B5CF6);" 
+         onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 30px #38BDF8)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #8B5CF6)';" />
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=radical&border_radius=16&show_owner=true" />
+
+  <a href="#" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=20" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 20px #8B5CF6);" 
+         onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 30px #38BDF8)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 20px #8B5CF6)';" />
   </a>
 </p>
+
+<hr/>
+
 
 ---
 
