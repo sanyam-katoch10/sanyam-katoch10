@@ -21,6 +21,7 @@
 
 <!-- ===================== STYLES ===================== -->
 <style>
+/* Glass cards */
 .glass {
   background: rgba(255,255,255,0.06);
   backdrop-filter: blur(18px);
@@ -32,16 +33,26 @@
   transform: translateY(-6px) scale(1.02);
   box-shadow: 0 0 40px rgba(168,85,247,0.65);
 }
-.ultimate-snake {
-  animation: pulse 2s infinite;
-  transition: transform 0.3s;
-}
-.ultimate-snake:hover { transform: scale(1.05); }
 
+/* Snake animations */
 @keyframes pulse {
   0% { filter: drop-shadow(0 0 15px #A855F7); transform: scale(1); }
   50% { filter: drop-shadow(0 0 40px #A855F7); transform: scale(1.02); }
   100% { filter: drop-shadow(0 0 15px #A855F7); transform: scale(1); }
+}
+
+@keyframes slither {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.slithering-snake {
+  width: 350px;
+  animation: slither 8s linear infinite, pulse 2s infinite;
+  transition: transform 0.3s;
+}
+.slithering-snake:hover {
+  transform: scale(1.1);
 }
 </style>
 
@@ -106,18 +117,17 @@
 
 <hr/>
 
-<!-- ===================== SINGLE BEST NEON SNAKE ===================== -->
-<h2 align="center">🔮 Ultimate Contribution Snake</h2>
+<!-- ===================== SLITHERING NEON SNAKE ===================== -->
+<h2 align="center">🔮 Slithering Ultimate Snake</h2>
 
-<div align="center">
+<div style="overflow:hidden; width:100%; display:flex; justify-content:center;">
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" />
     <source media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" />
-    <img class="ultimate-snake"
-         src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg"
-         style="max-width:700px;" />
+    <img class="slithering-snake"
+         src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" />
   </picture>
 </div>
 
