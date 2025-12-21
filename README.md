@@ -70,17 +70,26 @@
 
 <h2 align="center">⭐ Featured Project</h2>
 
-<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap;">
+<div align="center" style="margin:20px; max-width:450px;">
 
-  <!-- BotShield Project -->
-  <div align="center" style="margin:20px;">
-    <!-- GitHub Repo Card -->
-    <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=20" 
-           style="filter: drop-shadow(0 0 25px #8B5CF6); transition: transform 0.3s ease-in-out;" 
-           onmouseover="this.style.transform='scale(1.05)';" 
-           onmouseout="this.style.transform='scale(1)';" />
-    </a>
+
+  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=20" 
+         style="filter: drop-shadow(0 0 25px #8B5CF6); transition: transform 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.05)';" 
+         onmouseout="this.style.transform='scale(1)';" />
+  </a>
+
+  <br/><br/>
+  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank">
+    <img src="https://img.shields.io/badge/BotShield_ML--CAPTCHA--Refinement--System-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Description -->
+  <p style="color:#06B6D4; margin:10px 0; font-weight:bold; font-size:14px; line-height:1.4;">
+    🚀 An ML-powered CAPTCHA refinement system that intelligently balances human usability and bot resistance with real-time adaptive learning.
+  </p>
+
     <br/>
     <!-- Live Demo Badge -->
     <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:5px; display:inline-block;">
