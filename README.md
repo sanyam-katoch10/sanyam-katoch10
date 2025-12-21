@@ -46,8 +46,6 @@
 
 ## 🛠 Skills
 
-## 🛠 Skills
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,kali,docker,tensorflow,opencv,pytorch&theme=dark" 
@@ -91,8 +89,8 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
