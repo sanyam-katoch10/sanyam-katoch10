@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/your_github_username?s=150" alt="Your Name" width="120" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/sanyam-katoch10?s=150" alt="Sanyam Katoch" width="120" style="border-radius: 50%;" />
 </p>
 
 ---
