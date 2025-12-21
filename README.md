@@ -104,16 +104,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=radical&no-frame=true&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical" />
 </p>
 
----
-
-## 📰 Latest Writing
-
-<p align="center">
-  <img src="https://github-readme-medium.vercel.app/?username=sanyam-katoch10&limit=3&theme=dark" />
-</p>
 
 ---
 
