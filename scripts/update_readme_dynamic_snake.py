@@ -1,11 +1,7 @@
 import os
-from github import Github, Auth
 import datetime
-import openai
+from github import Github, Auth
 from openai import OpenAI
-
-if not os.getenv("OPENAI_API_KEY"):
-    raise ValueError("OPENAI_API_KEY is missing. Add it as a GitHub Actions secret.")
 
 # ---------------- CONFIG ----------------
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
@@ -14,11 +10,17 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 README_PATH = "README.md"
 OUTPUT_PATH = "output/github-snake-dynamic.svg"
 
-openai.api_key = OPENAI_API_KEY
+# ---------------- CHECK SECRETS ----------------
+if not GITHUB_TOKEN:
+    raise ValueError("GITHUB_TOKEN is missing. Add it as a GitHub Actions secret.")
+if not OPENAI_API_KEY:
+    raise ValueError("OPENAI_API_KEY is missing. Add it as a GitHub Actions secret.")
 
-# ---------------- FETCH WEEKLY ACTIVITY ----------------
+# ---------------- GITHUB AUTH ----------------
 g = Github(auth=Auth.Token(GITHUB_TOKEN))
 user = g.get_user(GITHUB_USERNAME)
+
+# ---------------- FETCH WEEKLY ACTIVITY ----------------
 today = datetime.datetime.utcnow()
 week_ago = today - datetime.timedelta(days=7)
 
@@ -39,28 +41,26 @@ for repo in user.get_repos():
     except:
         continue
 
-# ---------------- AI-GENERATED SUMMARY ----------------
+# ---------------- OPENAI CLIENT ----------------
+client = OpenAI(api_key=OPENAI_API_KEY)
+
 prompt = f"""
 Write a concise, friendly weekly GitHub activity summary for README.
 This week I made {commits} commits, merged {prs} PRs.
 Keep it casual, professional, and engaging.
 """
 
-
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
+print("Using OpenAI model: gpt-3.5-turbo")
 response = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[{"role":"user","content":prompt}],
     temperature=0.6
 )
 
-
 summary = response.choices[0].message.content.strip()
 
-
 # ---------------- DYNAMIC SNAKE SVG ----------------
-glow_intensity = min(5 + commits, 25)  # Cap glow intensity
+glow_intensity = min(5 + commits, 25)
 snake_svg = f"""
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="100">
   <defs>
