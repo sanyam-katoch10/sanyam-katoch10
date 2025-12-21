@@ -1,5 +1,5 @@
 import os
-from github import Github
+from github import Github, Auth
 import datetime
 import openai
 from openai import OpenAI
@@ -13,7 +13,7 @@ OUTPUT_PATH = "output/github-snake-dynamic.svg"
 openai.api_key = OPENAI_API_KEY
 
 # ---------------- FETCH WEEKLY ACTIVITY ----------------
-g = Github(GITHUB_TOKEN)
+g = Github(auth=Auth.Token(GITHUB_TOKEN))
 user = g.get_user(GITHUB_USERNAME)
 today = datetime.datetime.utcnow()
 week_ago = today - datetime.timedelta(days=7)
