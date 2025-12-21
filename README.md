@@ -114,6 +114,9 @@
 
 <hr/>
 
+<hr/>
+
+<!-- Glowing Quote -->
 <blockquote style="
   text-align:center; 
   font-size:1.5rem; 
@@ -126,13 +129,13 @@
   margin:30px auto;
   max-width:800px;
   text-shadow: 0 0 8px #06B6D4, 0 0 16px #8B5CF6;
+  animation: glow 1.5s ease-in-out infinite alternate;
 ">
   “Strive not to be a success, but rather to be of value.”<br/>
   <span style="color:#FF3CAC; font-weight:bold; font-size:1.2rem;">– Albert Einstein</span>
 </blockquote>
 
-
-
+<!-- Glowing Footer -->
 <p align="center" style="
   font-size:1.2rem; 
   color:#06B6D4; 
