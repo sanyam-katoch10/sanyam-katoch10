@@ -96,17 +96,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=onedark&no-frame=true&row=1" />
 </p>
 
-<hr/>
 
-<!-- ===================== BLOG FEED ===================== -->
-<h2 align="center">📰 Latest Writing</h2>
-<p align="center">
-  <img src="https://github-readme-medium.vercel.app/?username=YOUR_MEDIUM_OR_DEVTO_USERNAME&limit=3&theme=dark" />
-</p>
 
-<hr/>
-
-<!-- ===================== SINGLE BEST NEON SNAKE ===================== -->
 <h2 align="center">🔮 Contribution Activity</h2>
 
 <div align="center">
