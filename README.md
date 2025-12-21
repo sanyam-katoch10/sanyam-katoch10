@@ -37,7 +37,7 @@
 🧠 Learning <b style="color:#8B5CF6;">Deep Learning & ML Systems</b><br>
 🤝 Open to <b style="color:#06B6D4;">Open Source Collaboration</b><br>
 💬 <b style="color:#8B5CF6;">C++ • Python • DSA • Web • ML</b><br>
-⚡ <em>Coffee → Clean Code</em> ☕💻
+⚡ <em>Tea → Clean Code</em> ☕💻
 </p>
 
 <hr/>
@@ -117,11 +117,11 @@
   <a href="https://github.com/sanyam-katoch10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sanyam-katoch10/" target="_blank">
+  <a href="https://www.linkedin.com/in/sanyam-katoch/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="mailto:sanyamkatoch10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
  
