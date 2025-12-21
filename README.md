@@ -118,6 +118,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️-Sanyam%20Katoch-06B6D4?style=for-the-badge&logoColor=FF3CAC" />
+  <a href="https://github.com/sanyam-katoch10" target="_blank">
+    <img src="https://img.shields.io/badge/Made%20with%20❤️-Sanyam%20Katoch-06B6D4?style=for-the-badge&logoColor=FF3CAC" />
+  </a>
 </p>
+
 
