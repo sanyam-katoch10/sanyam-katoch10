@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/sanyam-katoch10" target="_blank">Sanyam Katoch</a> 👋
+  Hi, I'm <a href="https://github.com/sanyam-katoch10">Sanyam Katoch</a> 👋
 </h1>
 
 <p align="center">
@@ -12,27 +12,29 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/sanyam-katoch10?s=160" width="130" style="border-radius: 50%; box-shadow: 0 0 25px rgba(56,189,248,0.6);" />
+  <img src="https://avatars.githubusercontent.com/sanyam-katoch10?s=160"
+       width="130"
+       style="border-radius:50%; box-shadow:0 0 30px rgba(56,189,248,0.6);" />
 </p>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:A855F7" />
 
 <!-- ===================== ABOUT ===================== -->
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
-🎓 Developer passionate about building <b>scalable & intelligent systems</b><br/>
-💼 Actively seeking <b>internships & real-world experience</b><br/>
-🧠 Currently diving deep into <b>Deep Learning & ML systems</b><br/>
-🤝 Open to <b>Open Source & collaborative projects</b>
-</p>
+<div align="center" style="background:rgba(255,255,255,0.05); backdrop-filter:blur(14px); border-radius:18px; padding:22px;">
 
-<p align="center">
-💬 <b>C++ • Python • DSA • Web Dev • ML</b><br/>
-⚡ Fun fact: <i>I turn coffee into clean, optimized code ☕💻</i>
-</p>
+🎓 Passionate developer building **scalable & intelligent systems**  
+💼 Actively seeking **internships & industry exposure**  
+🧠 Currently focused on **Deep Learning & ML systems**  
+🤝 Open to **Open Source collaborations**
 
-<hr/>
+💬 **C++ • Python • DSA • Web Dev • ML**  
+⚡ *I turn coffee into optimized code* ☕💻
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:A855F7,100:38BDF8" />
 
 <!-- ===================== SKILLS ===================== -->
 <h2 align="center">🛠️ Skills & Technologies</h2>
@@ -41,43 +43,53 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,linux,docker&theme=dark" />
 </p>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:A855F7" />
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <h2 align="center">⭐ Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/ML-Enhanced-CAPTCHA-Refinement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=ML-Enhanced-CAPTCHA-Refinement&theme=tokyonight&border_radius=14" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=14" />
   </a>
   <a href="https://github.com/sanyam-katoch10/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=14" />
   </a>
 </p>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:A855F7,100:38BDF8" />
 
 <!-- ===================== STATS ===================== -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=tokyonight&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=tokyonight&border_radius=12" width="48%" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=tokyonight&border_radius=14" />
+  <img width="48%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=tokyonight&border_radius=14" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=tokyonight&border_radius=12" width="45%" />
+  <img width="45%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=tokyonight&border_radius=14" />
 </p>
 
-<hr/>
+<!-- ===================== TROPHIES ===================== -->
+<h2 align="center">🏆 Achievements</h2>
 
-<!-- ===================== LINKS ===================== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=onedark&no-frame=true&row=1&margin-w=15" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:A855F7" />
+
+<!-- ===================== CONNECT ===================== -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -92,8 +104,16 @@
   </a>
 </p>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:A855F7,100:38BDF8" />
 
+<!-- ===================== SNAKE ===================== -->
+<h2 align="center">🔮 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <i>“Strive not to be a success, but rather to be of value.”</i><br/>
   — Albert Einstein
