@@ -112,12 +112,44 @@
 
 <hr/>
 
-<p align="center" style="font-size:1.3rem; color:#06B6D4; font-style:italic; text-shadow: 0 0 8px #8B5CF6, 0 0 12px #06B6D4;">
+<hr/>
+
+<blockquote style="
+  text-align:center; 
+  font-size:1.5rem; 
+  color:#06B6D4; 
+  font-style:italic; 
+  padding:20px 40px; 
+  border-left: 6px solid #8B5CF6; 
+  box-shadow: 0 0 20px #8B5CF6, 0 0 40px #06B6D4; 
+  border-radius:12px; 
+  margin:30px auto;
+  max-width:800px;
+  text-shadow: 0 0 8px #06B6D4, 0 0 16px #8B5CF6;
+">
   “Strive not to be a success, but rather to be of value.”<br/>
-  <strong style="color:#FF3CAC;">– Albert Einstein</strong>
-</p>
+  <span style="color:#FF3CAC; font-weight:bold; font-size:1.2rem;">– Albert Einstein</span>
+</blockquote>
 
 
-<p align="center" style="color:#06B6D4;">
-  <em>Made with ❤️ by <a href="https://github.com/sanyam-katoch10" style="color:#8B5CF6;text-decoration:none;">Sanyam Katoch</a></em>
+
+<p align="center" style="
+  font-size:1.2rem; 
+  color:#06B6D4; 
+  font-weight:bold; 
+  text-shadow: 0 0 6px #06B6D4, 0 0 12px #8B5CF6, 0 0 20px #FF3CAC;
+  animation: glow 1.5s ease-in-out infinite alternate;
+">
+  Made with ❤️ by 
+  <a href="https://github.com/sanyam-katoch10" 
+     style="color:#FF3CAC; text-decoration:none; text-shadow: 0 0 6px #FF3CAC, 0 0 12px #8B5CF6;">
+    Sanyam Katoch
+  </a>
 </p>
+
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 6px #06B6D4, 0 0 12px #8B5CF6, 0 0 20px #FF3CAC; }
+  to { text-shadow: 0 0 12px #06B6D4, 0 0 24px #8B5CF6, 0 0 40px #FF3CAC; }
+}
+</style>
