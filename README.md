@@ -66,56 +66,29 @@
 
 <hr/>
 
-<h2 align="center">⭐ Featured Projects</h2>
+<hr/>
 
-<p align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; flex-direction:column;">
+<h2 align="center">⭐ Featured Project</h2>
 
-  <!-- Project 1 -->
-  <div align="center" style="margin-bottom:20px;">
-    <a href="https://github.com/sanyam-katoch10/BOtShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BOtShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=18" 
-           style="filter: drop-shadow(0 0 20px #8B5CF6); transition: transform 0.3s ease-in-out;" 
-           onmouseover="this.style.transform='scale(1.05)';" 
-           onmouseout="this.style.transform='scale(1)';" />
-    </a>
-    <br/>
-    <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </a>
-  </div>
-
-  <!-- Project 2 -->
-  <div align="center" style="margin-bottom:20px;">
-    <a href="https://github.com/sanyam-katoch10/REPO_NAME_2" target="_blank" style="text-decoration:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_2&theme=tokyonight&border_radius=18" 
-           style="filter: drop-shadow(0 0 20px #06B6D4); transition: transform 0.3s ease-in-out;" 
-           onmouseover="this.style.transform='scale(1.05)';" 
-           onmouseout="this.style.transform='scale(1)';" />
-    </a>
-    <br/>
-    <a href="LIVE_LINK_2" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </a>
-  </div>
-
-  <!-- Project 3 -->
-  <div align="center" style="margin-bottom:20px;">
-    <a href="https://github.com/sanyam-katoch10/REPO_NAME_3" target="_blank" style="text-decoration:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=REPO_NAME_3&theme=tokyonight&border_radius=18" 
-           style="filter: drop-shadow(0 0 20px #38BDF8); transition: transform 0.3s ease-in-out;" 
-           onmouseover="this.style.transform='scale(1.05)';" 
-           onmouseout="this.style.transform='scale(1)';" />
-    </a>
-    <br/>
-    <a href="LIVE_LINK_3" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </a>
-  </div>
-
-</p>
+<div align="center" style="margin-bottom:25px;">
+  <!-- Project Repo Badge -->
+  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank">
+    <img src="https://img.shields.io/badge/BotShield_ML--CAPTCHA--Refinement--System-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- Project Description -->
+  <p style="color:#06B6D4; margin:10px 0; font-weight:bold; max-width:700px;">
+    🚀 An ML-powered CAPTCHA refinement system that intelligently balances human usability and bot resistance with real-time adaptive learning.
+  </p>
+  
+  <!-- Live Demo Badge -->
+  <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</div>
 
 <p align="center" style="margin-top:15px; color:#06B6D4;">
-  <em>Click on any project card to view the repo, or hit the Live Demo to explore the running app!</em>
+  <em>Click on the badge to view the GitHub repository or hit Live Demo to explore the running app!</em>
 </p>
 
 <hr/>
