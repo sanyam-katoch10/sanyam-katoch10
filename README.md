@@ -151,7 +151,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
+<div align="center" style="margin:10px 0;">
+  <a href="https://leetcode.com/sanyam-katoch10/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" />
+  </a>
+</div>
 
 
 <hr/>
