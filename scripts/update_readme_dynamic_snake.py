@@ -2,7 +2,7 @@ import os
 from github import Github
 import datetime
 import openai
-
+from openai import OpenAI
 # ---------------- CONFIG ----------------
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
@@ -41,12 +41,18 @@ Write a concise, friendly weekly GitHub activity summary for README.
 This week I made {commits} commits, merged {prs} PRs.
 Keep it casual, professional, and engaging.
 """
-response = openai.ChatCompletion.create(
+
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+response = client.chat.completions.create(
     model="gpt-4",
     messages=[{"role":"user","content":prompt}],
     temperature=0.6
 )
-summary = response['choices'][0]['message']['content'].strip()
+
+summary = response.choices[0].message.content.strip()
+
 
 # ---------------- DYNAMIC SNAKE SVG ----------------
 glow_intensity = min(5 + commits, 25)  # Cap glow intensity
