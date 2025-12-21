@@ -45,7 +45,7 @@
 ## 🛠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,linux,docker,html,css,js,tensorflow,keras,opencv,pytorch&theme=dark" style="filter: drop-shadow(0 0 15px #06B6D4);" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,pandas,seaborn,numpy,matplotlib,opencv,pytorch&theme=dark" style="filter: drop-shadow(0 0 15px #06B6D4);" />
 </p>
 
 ---
