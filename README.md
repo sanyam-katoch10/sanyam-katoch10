@@ -115,42 +115,12 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Metrics</h2>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10
-    &show_icons=true
-    &hide_border=true
-    &bg_color=0D1117
-    &title_color=8B5CF6
-    &text_color=06B6D4
-    &icon_color=FF3CAC"
-    width="420"
-    style="filter: drop-shadow(0 0 18px #8B5CF6);" />
-</p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sanyam-katoch10
-    &hide_border=true
-    &background=0D1117
-    &ring=8B5CF6
-    &fire=FF3CAC
-    &currStreakLabel=06B6D4
-    &sideLabels=06B6D4
-    &dates=8B5CF6"
-    width="420"
-    style="filter: drop-shadow(0 0 18px #06B6D4);" />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10
-    &layout=compact
-    &hide_border=true
-    &bg_color=0D1117
-    &title_color=8B5CF6
-    &text_color=06B6D4"
-    width="420"
-    style="filter: drop-shadow(0 0 18px #FF3CAC);" />
-</p>
+(https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=tokyonight)
+
+(https://streak-stats.demolab.com?user=sanyam-katoch10&theme=tokyonight)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=tokyonight)
+
 
 
 <hr/>
