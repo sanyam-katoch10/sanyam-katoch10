@@ -118,21 +118,17 @@
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img 
-    src="https://YOUR-VERCEL-URL.vercel.app/api?username=sanyam-katoch10&show_icons=true&bg_color=0d1117&title_color=8B5CF6&text_color=06B6D4&icon_color=FF3CAC&hide_border=true" 
-  />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyam-katoch10)](https://github.com/anuraghazra/github-readme-stats)  
 </p>
-
-<hr/>
 
 <!-- GitHub Streak Card -->
 <p align="center">
   <img 
-    src="https://YOUR-STREAK-VERCEL.vercel.app/?user=sanyam-katoch10&theme=tokyonight&hide_border=true" 
+    src="https:///?user=sanyam-katoch10&theme=tokyonight&hide_border=true" 
   />
 </p>
 
-<hr/>
+
 
 <!-- Top Languages Card -->
 <p align="center">
@@ -143,8 +139,6 @@
 
 <hr/>
 
-
-<hr/>
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
