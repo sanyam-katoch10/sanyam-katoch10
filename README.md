@@ -115,6 +115,17 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Metrics</h2>
+<p align="center">
+  <img src="https://github-readme-stats-sanyam.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sanyam.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats-sanyam.vercel.app/?user=sanyam-katoch10&theme=tokyonight" />
+</p>
 
 
 <hr/>
