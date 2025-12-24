@@ -116,26 +116,6 @@
 
 <h2 align="center">📊 GitHub Metrics</h2>
 
-<!-- GitHub Stats Card -->
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyam-katoch10)](https://github.com/anuraghazra/github-readme-stats)  
-</p>
-
-<!-- GitHub Streak Card -->
-<p align="center">
-  <img 
-    src="https:///?user=sanyam-katoch10&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
-
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img 
-    src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=06B6D4&hide_border=true" 
-  />
-</p>
 
 <hr/>
 
