@@ -115,11 +115,11 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Metrics</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=default&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanyam-katoch10&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanyam-katoch10&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=default)
 
 
 
