@@ -115,9 +115,13 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Metrics</h2>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanyam-katoch10)
-![Metrics](https://github.com/sanyam-katoch10/sanyam-katoch10/blob/main/github-metrics.svg)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanyam-katoch10&show_icons=true)
 
+![Streak](https://streak-stats.demolab.com?user=sanyam-katoch10)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact)
+
+![Snake](https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg)
 
 
 <hr/>
