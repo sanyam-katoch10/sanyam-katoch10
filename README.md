@@ -116,13 +116,17 @@
 
 <h2 align="center">📊 GitHub Metrics</h2>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true"
+       width="420" style="filter: drop-shadow(0 0 15px #FF3CAC);" />
+  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=radical&hide_border=true"
+       width="420" style="filter: drop-shadow(0 0 15px #8B5CF6);" />
 </p>
 
+
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true" width="420"/>
 </p>
+
 
 <hr/>
 
