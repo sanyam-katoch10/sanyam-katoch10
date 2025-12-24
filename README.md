@@ -118,13 +118,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sanyam.vercel.app/api?username=sanyam-katoch10
-    &show_icons=true
-    &bg_color=0d1117
-    &title_color=8B5CF6
-    &text_color=06B6D4
-    &icon_color=FF3CAC
-    &hide_border=true" 
+    src="https://github-readme-stats-sanyam.vercel.app/api?username=sanyam-katoch10&show_icons=true&bg_color=0d1117&title_color=8B5CF6&text_color=06B6D4&icon_color=FF3CAC&hide_border=true" 
   />
 </p>
 
@@ -132,9 +126,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats-sanyam.vercel.app/?user=sanyam-katoch10
-    &theme=tokyonight
-    &hide_border=true" 
+    src="https://streak-stats-sanyam.vercel.app/?user=sanyam-katoch10&theme=tokyonight&hide_border=true" 
   />
 </p>
 
@@ -142,14 +134,10 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sanyam.vercel.app/api/top-langs/?username=sanyam-katoch10
-    &layout=compact
-    &bg_color=0d1117
-    &title_color=8B5CF6
-    &text_color=06B6D4
-    &hide_border=true" 
+    src="https://github-readme-stats-sanyam.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=06B6D4&hide_border=true" 
   />
 </p>
+
 
 <hr/>
 
