@@ -115,13 +115,43 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Metrics</h2>
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanyam-katoch10&show_icons=true)
 
-![Streak](https://streak-stats.demolab.com?user=sanyam-katoch10)
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sanyam.vercel.app/api?username=sanyam-katoch10
+    &show_icons=true
+    &bg_color=0d1117
+    &title_color=8B5CF6
+    &text_color=06B6D4
+    &icon_color=FF3CAC
+    &hide_border=true" 
+  />
+</p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact)
+<hr/>
 
-![Snake](https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg)
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats-sanyam.vercel.app/?user=sanyam-katoch10
+    &theme=tokyonight
+    &hide_border=true" 
+  />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sanyam.vercel.app/api/top-langs/?username=sanyam-katoch10
+    &layout=compact
+    &bg_color=0d1117
+    &title_color=8B5CF6
+    &text_color=06B6D4
+    &hide_border=true" 
+  />
+</p>
+
+<hr/>
 
 
 <hr/>
