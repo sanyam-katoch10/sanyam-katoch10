@@ -115,26 +115,43 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Metrics</h2>
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true"
-       width="420"
-       style="filter: drop-shadow(0 0 15px #FF3CAC);" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10
+    &show_icons=true
+    &hide_border=true
+    &bg_color=0D1117
+    &title_color=8B5CF6
+    &text_color=06B6D4
+    &icon_color=FF3CAC"
+    width="420"
+    style="filter: drop-shadow(0 0 18px #8B5CF6);" />
+</p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sanyam-katoch10
+    &hide_border=true
+    &background=0D1117
+    &ring=8B5CF6
+    &fire=FF3CAC
+    &currStreakLabel=06B6D4
+    &sideLabels=06B6D4
+    &dates=8B5CF6"
+    width="420"
+    style="filter: drop-shadow(0 0 18px #06B6D4);" />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10
+    &layout=compact
+    &hide_border=true
+    &bg_color=0D1117
+    &title_color=8B5CF6
+    &text_color=06B6D4"
+    width="420"
+    style="filter: drop-shadow(0 0 18px #FF3CAC);" />
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=radical&hide_border=true"
-       width="420"
-       style="filter: drop-shadow(0 0 15px #8B5CF6);" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true"
-       width="420"
-       style="filter: drop-shadow(0 0 15px #06B6D4);" />
-</p>
 
 <hr/>
 
