@@ -116,7 +116,7 @@
 
 <h2 align="center">📊 GitHub Metrics</h2>
 <p align="center">
-  <img src="https://github-readme-stats-sanyam.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats-sanyam.vercel.app/?user=sanyam-katoch10&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-katoch10&theme=tokyonight" />
 </p>
 
 
