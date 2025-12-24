@@ -132,8 +132,7 @@
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true"
-       width="420"
-       style="filter: drop-shadow(0 0 15px #06B6D4);" />
+       width="420"/>
 </p>
 
 
