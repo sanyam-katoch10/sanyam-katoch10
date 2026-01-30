@@ -15,7 +15,12 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/sanyam-katoch10?s=160" width="140" style="border-radius:50%; box-shadow:0 0 50px #8B5CF6;" />
 </p>
-
+<hr/>
+<p align="center">
+  <a href="https://sanyamportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-39FF14?style=for-the-badge&logo=react&logoColor=black&labelColor=39FF14" alt="VIEW PORTFOLIO">
+  </a>
+</p>
 <hr/>
 
 <h2 align="center">🔮 Contribution Activity</h2>
