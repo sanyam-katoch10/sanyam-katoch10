@@ -18,9 +18,10 @@
 <hr/>
 <p align="center">
   <a href="https://sanyamportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=39FF14&labelColor=000000&color=000000" alt="VIEW PORTFOLIO">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=006400&height=50&width=200&text=VIEW%20PORTFOLIO&fontColor=39FF14&fontSize=20&stroke=39FF14&strokeWidth=2" alt="VIEW PORTFOLIO">
   </a>
 </p>
+
 <hr/>
 
 <h2 align="center">🔮 Contribution Activity</h2>
