@@ -18,12 +18,6 @@
   <img src="https://avatars.githubusercontent.com/sanyam-katoch10?s=160" width="140" style="border-radius:50%; box-shadow:0 0 50px #8B5CF6;" />
 </p>
 
-<p align="center">
-  <a href="https://sanyamportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=00FFFF&color=000000&labelColor=000000" alt="VIEW PORTFOLIO">
-  </a>
-</p>
-
 <hr/>
 
 <h2 align="center">🔮 Contribution Activity</h2>
@@ -66,50 +60,56 @@
 
 <h2 align="center">⭐ Featured Projects</h2>
 
-<div align="center">
+<!-- ===================== Project 1 ===================== -->
+<div align="center" style="margin:20px; max-width:520px;">
+  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=20&card_width=520" 
+         style="filter: drop-shadow(0 0 25px #8B5CF6); transition: transform 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.05)';" 
+         onmouseout="this.style.transform='scale(1)';" />
+  </a>
+  <p style="color:#06B6D4; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
+    🚀 An ML-powered(using CNN) CAPTCHA refinement system that intelligently balances human usability and bot resistance with real-time adaptive learning.
+  </p>
+  <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</div>
 
-  <!-- Project 1 -->
-  <div style="margin: 20px 0;">
-    <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=10&card_width=520&hide_border=true" 
-           style="filter: drop-shadow(0 0 15px #8B5CF6);" />
-    </a>
-    <p align="center" style="max-width: 500px; margin-top: 10px; color: #c4c4c4;">
-      🚀 <b>ML-powered CAPTCHA refinement system</b> utilizing CNNs to balance human usability and bot resistance with real-time adaptive learning.
-    </p>
-    <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
-    </a>
-  </div>
+<hr/>
 
-  <!-- Project 2 -->
-  <div style="margin: 30px 0;">
-    <a href="https://github.com/sanyam-katoch10/Project_2_Repo" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=Project_2_Repo&theme=tokyonight&border_radius=10&card_width=520&hide_border=true" 
-           style="filter: drop-shadow(0 0 15px #06B6D4);" />
-    </a>
-    <p align="center" style="max-width: 500px; margin-top: 10px; color: #c4c4c4;">
-      🔹 <b>Project Description</b> goes here. Briefly explain what it does.
-    </p>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
-    </a>
-  </div>
+<!-- ===================== Project 2 ===================== -->
+<div align="center" style="margin:20px; max-width:520px;">
+  <a href="https://github.com/sanyam-katoch10/Project_2_Repo" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=Project_2_Repo&theme=tokyonight&border_radius=20&card_width=520" 
+         style="filter: drop-shadow(0 0 25px #06B6D4); transition: transform 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.05)';" 
+         onmouseout="this.style.transform='scale(1)';" />
+  </a>
+  <p style="color:#8B5CF6; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
+    🔹 Description.
+  </p>
+  <a href="#" target="_blank" style="margin-top:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</div>
 
-  <!-- Project 3 -->
-  <div style="margin: 30px 0;">
-    <a href="https://github.com/sanyam-katoch10/Project_3_Repo" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=Project_3_Repo&theme=tokyonight&border_radius=10&card_width=520&hide_border=true" 
-           style="filter: drop-shadow(0 0 15px #FF3CAC);" />
-    </a>
-    <p align="center" style="max-width: 500px; margin-top: 10px; color: #c4c4c4;">
-      🔹 <b>Project Description</b> goes here. Briefly explain what it does.
-    </p>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
-    </a>
-  </div>
+<hr/>
 
+<!-- ===================== Project 3 ===================== -->
+<div align="center" style="margin:20px; max-width:520px;">
+  <a href="https://github.com/sanyam-katoch10/Project_3_Repo" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=Project_3_Repo&theme=tokyonight&border_radius=20&card_width=520" 
+         style="filter: drop-shadow(0 0 25px #FF3CAC); transition: transform 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.05)';" 
+         onmouseout="this.style.transform='scale(1)';" />
+  </a>
+  <p style="color:#FF3CAC; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
+    🔹 Description.
+  </p>
+  <a href="#" target="_blank" style="margin-top:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
 </div>
 
 <hr/>
@@ -147,20 +147,28 @@
 <hr/>
 
 <h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
+<div align="center" style="margin:10px 0;">
   <a href="https://github.com/sanyam-katoch10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<div align="center" style="margin:10px 0;">
   <a href="https://www.linkedin.com/in/sanyam-katoch/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+
+<div align="center" style="margin:10px 0;">
   <a href="mailto:sanyamkatoch10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+<div align="center" style="margin:10px 0;">
   <a href="https://leetcode.com/u/SamKat/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" />
   </a>
-</p>
+</div>
 
 
 <hr/>
