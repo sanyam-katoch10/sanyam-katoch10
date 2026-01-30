@@ -18,7 +18,7 @@
 <hr/>
 <p align="center">
   <a href="https://sanyamportfolio.netlify.app/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=006400&height=50&width=200&text=VIEW%20PORTFOLIO&fontColor=39FF14&fontSize=20&stroke=39FF14&strokeWidth=2" alt="VIEW PORTFOLIO">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=006400&height=50&width=200&text=VIEW%20PORTFOLIO&fontColor=39FF14&fontSize=20&stroke=ffffff&strokeWidth=2&font=Fira%20Code" alt="VIEW PORTFOLIO">
   </a>
 </p>
 
