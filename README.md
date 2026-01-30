@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:8B5CF6,100:06B6D4&text=Sanyam%20Katoch&fontSize=60&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:8B5CF6,100:06B6D4&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=twinkling&fontColor=ffffff" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="65" style="filter: drop-shadow(0 0 10px #06b6d4);" />
 </p>
 
-<h1 align="center">
-  Hi, I'm <a href="https://github.com/sanyam-katoch10" style="color:#8B5CF6;text-decoration:none;">Sanyam Katoch</a> 👋
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=600&color=06B6D4&center=true&vCenter=true&width=720&lines=Passionate+Developer;ML+%26+Deep+Learning+Enthusiast;Open+Source+Contributor;Turning+Ideas+Into+Code" />
