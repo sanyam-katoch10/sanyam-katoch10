@@ -18,7 +18,7 @@
 <hr/>
 <p align="center">
   <a href="https://sanyamportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-39FF14?style=for-the-badge&logo=react&logoColor=black&labelColor=39FF14" alt="VIEW PORTFOLIO">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-2979FF?style=for-the-badge&logo=react&logoColor=white&labelColor=2979FF" alt="VIEW PORTFOLIO">
   </a>
 </p>
 <hr/>
