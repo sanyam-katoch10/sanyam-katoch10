@@ -41,23 +41,15 @@ for repo in user.get_repos():
     except:
         continue
 
-# ---------------- OPENAI CLIENT ----------------
-client = OpenAI(api_key=OPENAI_API_KEY)
+summary = f"""
+ Weekly GitHub Update
 
-prompt = f"""
-Write a concise, friendly weekly GitHub activity summary for README.
-This week I made {commits} commits, merged {prs} PRs.
-Keep it casual, professional, and engaging.
+• {commits} commits pushed
+• {prs} PRs merged
+
+Consistency builds momentum. Let’s keep shipping. 
 """
 
-print("Using OpenAI model: gpt-4o-mini")
-response = client.chat.completions.create(
-    model="gpt-4o-mini",
-    messages=[{"role":"user","content":prompt}],
-    temperature=0.6
-)
-
-summary = response.choices[0].message.content.strip()
 
 # ---------------- DYNAMIC SNAKE SVG ----------------
 glow_intensity = min(5 + commits, 25)
