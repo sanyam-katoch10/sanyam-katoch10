@@ -185,3 +185,19 @@
     <img src="https://img.shields.io/badge/Made%20with%20❤️-Sanyam%20Katoch-06B6D4?style=for-the-badge&logoColor=FF3CAC" />
   </a>
 </p>
+
+<!-- WEEKLY_ACTIVITY_START -->
+
+ Weekly GitHub Update
+
+• 4 commits pushed
+• 0 PRs merged
+
+Consistency builds momentum. Let’s keep shipping. 
+
+<!-- WEEKLY_ACTIVITY_END -->
+<!-- SNAKE_START -->
+<p align='center'>
+  <img src='output/github-snake-dynamic.svg' width='700'/>
+</p>
+<!-- SNAKE_END -->

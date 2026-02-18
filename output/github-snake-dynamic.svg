@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="100">
+  <defs>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#A855F7"/>
+    </filter>
+  </defs>
+  <path d="M0 50 C100 0, 300 100, 700 50" stroke="#A855F7" stroke-width="8" fill="transparent" filter="url(#glow)">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="M0 50 C100 0, 300 100, 700 50;
+              M0 50 C100 20, 300 80, 700 50;
+              M0 50 C100 0, 300 100, 700 50"/>
+  </path>
+</svg>
