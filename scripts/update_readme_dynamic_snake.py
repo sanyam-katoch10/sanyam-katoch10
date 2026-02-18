@@ -50,9 +50,9 @@ This week I made {commits} commits, merged {prs} PRs.
 Keep it casual, professional, and engaging.
 """
 
-print("Using OpenAI model: gpt-3.5-turbo")
+print("Using OpenAI model: gpt-4o-mini")
 response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
+    model="gpt-4o-mini",
     messages=[{"role":"user","content":prompt}],
     temperature=0.6
 )
@@ -90,9 +90,14 @@ end_marker = "<!-- WEEKLY_ACTIVITY_END -->"
 new_activity_section = f"{start_marker}\n{summary}\n{end_marker}"
 
 if start_marker in content and end_marker in content:
-    content = content.split(start_marker)[0] + new_activity_section + content.split(end_marker)[1]
+    old_section = content.split(start_marker)[1].split(end_marker)[0]
+    content = content.replace(
+        f"{start_marker}{old_section}{end_marker}",
+        new_activity_section
+    )
 else:
     content += "\n" + new_activity_section
+
 
 # Update snake SVG
 start_snake = "<!-- SNAKE_START -->"
