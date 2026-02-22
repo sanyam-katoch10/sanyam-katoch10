@@ -65,7 +65,7 @@ I build **ML-powered, scalable systems** — not just models.
 - Adaptive usability vs bot resistance balance
 - Deployed ML pipeline
 - Real-time prediction system
-- Deployed on strwamlit
+- Deployed on Streamlit
 
 ### 🛠 Tech
 `Python` `TensorFlow` `CNN` `Streamlit`
