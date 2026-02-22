@@ -27,8 +27,8 @@ I build **ML-powered, scalable systems** — not just models.
 ## 🧠 SegViSion — PSO-Based Image Segmentation (Deployed)
 
 <p align="center">
-  <a href="https://github.com/sanyam-katoch10/pso-image-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=pso-image-main&theme=tokyonight&border_radius=15" />
+  <a href="https://github.com/sanyam-katoch10/SegViSion_PSO_Image_Segmentation_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=SegViSion_PSO_Image_Segmentation_System&theme=tokyonight&border_radius=15&cache_seconds=1800" />
   </a>
 </p>
 
