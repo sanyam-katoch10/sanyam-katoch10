@@ -56,7 +56,7 @@ I build **ML-powered, scalable systems** — not just models.
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=15" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=15" />
   </a>
 </p>
 
