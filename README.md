@@ -43,10 +43,11 @@ I build **ML-powered, scalable systems** — not just models.
 
 ### 🛠 Tech
 `Python` `Flask` `NumPy` `OpenCV` `SSE` `Threading`
-
+<p align="center">
 <a href="https://segvision.up.railway.app">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </a>
+</p>
 
 ---
 
