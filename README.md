@@ -2,202 +2,165 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:8B5CF6,100:06B6D4&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=twinkling&fontColor=ffffff" />
 </p>
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="65" style="filter: drop-shadow(0 0 10px #06b6d4);" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="65" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=600&color=06B6D4&center=true&vCenter=true&width=720&lines=Passionate+Developer;ML+%26+Deep+Learning+Enthusiast;Open+Source+Contributor;Turning+Ideas+Into+Code" />
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/sanyam-katoch10?s=160" width="140" style="border-radius:50%; box-shadow:0 0 50px #8B5CF6;" />
+  <img src="https://avatars.githubusercontent.com/sanyam-katoch10?s=160" width="140" style="border-radius:50%;" />
 </p>
-<hr/>
+
+---
+
 <p align="center">
-  <a href="https://sanyamportfolio.netlify.app/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=006400&height=50&width=200&text=VIEW%20PORTFOLIO&fontColor=00FFFF&fontSize=20&stroke=00FFFF&strokeWidth=2&font=Montserrat" alt="VIEW PORTFOLIO">
+  <a href="https://sanyamportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<hr/>
+---
 
-<h2 align="center">🔮 Contribution Activity</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" width="700" alt="Slithering Neon Snake" />
-</p>
-
-<hr/>
-
-<h2 align="center">🧩 About Me</h2>
-<p align="center" style="color:#c4c4c4;">
-🎓 Developer building <b style="color:#8B5CF6;">ML-powered & scalable systems</b><br>
-💼 Actively seeking <b style="color:#06B6D4;">internships</b><br>
-🧠 Learning <b style="color:#8B5CF6;">Deep Learning & ML Systems</b><br>
-🤝 Open to <b style="color:#06B6D4;">Open Source Collaboration</b><br>
-💬 <b style="color:#8B5CF6;">C++ • Python • DSA • Web • ML</b><br>
-⚡ <em>Tea → Clean Code</em> ☕💻
-</p>
-
-<hr/>
-
-<h2 align="center">🛠 Skills</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,kali,docker,tensorflow,opencv,pytorch&theme=dark" 
-       style="filter: drop-shadow(0 0 20px #06B6D4) drop-shadow(0 0 10px #8B5CF6); margin:5px;" />
-</p>
+## 🔮 Contribution Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-FF3CAC?style=for-the-badge&logo=pandas&logoColor=ffffff&color=FF3CAC&labelColor=8A2BE2" 
-       style="margin:5px; filter: drop-shadow(0 0 20px #FF3CAC);" />
-  <img src="https://img.shields.io/badge/NumPy-00FFFF?style=for-the-badge&logo=numpy&logoColor=000000&color=00FFFF&labelColor=1E90FF" 
-       style="margin:5px; filter: drop-shadow(0 0 20px #00FFFF);" />
-  <img src="https://img.shields.io/badge/Seaborn-7CFC00?style=for-the-badge&logoColor=ffffff&color=7CFC00&labelColor=32CD32" 
-       style="margin:5px; filter: drop-shadow(0 0 20px #7CFC00);" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF8C00?style=for-the-badge&logoColor=ffffff&color=FF8C00&labelColor=FF4500" 
-       style="margin:5px; filter: drop-shadow(0 0 20px #FF8C00);" />
+  <img src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-neon1.svg" width="700" />
 </p>
 
-<hr/>
+---
 
-<h2 align="center">⭐ Featured Projects</h2>
+## 🧩 About Me
 
-<!-- ===================== Project 1 ===================== -->
-<div align="center" style="margin:20px; max-width:520px;">
-  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=20&card_width=520" 
-         style="filter: drop-shadow(0 0 25px #8B5CF6); transition: transform 0.3s ease-in-out;" 
-         onmouseover="this.style.transform='scale(1.05)';" 
-         onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <p style="color:#06B6D4; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
-    🚀 An ML-powered(using CNN) CAPTCHA refinement system that intelligently balances human usability and bot resistance with real-time adaptive learning.
-  </p>
-  <a href="https://botshield0captcha-sam.streamlit.app/" target="_blank" style="margin-top:5px; display:inline-block;">
-    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<!-- ===================== Project 2 ===================== -->
-<div align="center" style="margin:20px; max-width:520px;">
-  <a href="https://github.com/sanyam-katoch10/Project_2_Repo" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=Project_2_Repo&theme=tokyonight&border_radius=20&card_width=520" 
-         style="filter: drop-shadow(0 0 25px #06B6D4); transition: transform 0.3s ease-in-out;" 
-         onmouseover="this.style.transform='scale(1.05)';" 
-         onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <p style="color:#8B5CF6; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
-    🔹 Description.
-  </p>
-  <a href="#" target="_blank" style="margin-top:5px; display:inline-block;">
-    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<!-- ===================== Project 3 ===================== -->
-<div align="center" style="margin:20px; max-width:520px;">
-  <a href="https://github.com/sanyam-katoch10/Project_3_Repo" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=Project_3_Repo&theme=tokyonight&border_radius=20&card_width=520" 
-         style="filter: drop-shadow(0 0 25px #FF3CAC); transition: transform 0.3s ease-in-out;" 
-         onmouseover="this.style.transform='scale(1.05)';" 
-         onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <p style="color:#FF3CAC; margin:15px 0 10px 0; font-weight:bold; font-size:14px; line-height:1.4; max-width:500px;">
-    🔹 Description.
-  </p>
-  <a href="#" target="_blank" style="margin-top:5px; display:inline-block;">
-    <img src="https://img.shields.io/badge/Live%20Demo-🚀-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Metrics</h2>
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true"
-       width="420"
-       style="filter: drop-shadow(0 0 15px #FF3CAC);" />
+
+🎓 Developer building **ML-powered & scalable systems**  
+💼 Actively seeking **internships**  
+🧠 Learning **Deep Learning & ML Systems**  
+🤝 Open to **Open Source Collaboration**  
+💬 **C++ • Python • DSA • Web • ML**  
+⚡ *Tea → Clean Code* ☕💻  
+
 </p>
 
-<!-- GitHub Streak -->
+---
+
+## 🛠 Skills
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=radical&hide_border=true"
-       width="420"
-       style="filter: drop-shadow(0 0 15px #8B5CF6);" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,linux,docker,tensorflow,opencv,pytorch&theme=dark" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true"
-       width="420"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
+---
 
-<hr/>
+## ⭐ Featured Projects
 
+---
 
-<h2 align="center">🏆 Achievements</h2>
+### 🚀 BotShield — ML CAPTCHA Refinement System
+
+<p align="center">
+  <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+
+<p align="center">
+An ML-powered (CNN-based) CAPTCHA refinement system balancing  
+human usability & bot resistance using adaptive learning.
+</p>
+
+<p align="center">
+  <a href="https://botshield0captcha-sam.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 SegViSion — PSO-Powered Image Segmentation
+
+<p align="center">
+  <a href="https://github.com/sanyam-katoch10/pso-image-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=pso-image-main&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+
+<p align="center">
+A high-performance image segmentation web app powered by  
+<strong>Particle Swarm Optimization (PSO)</strong> with real-time streaming,  
+spatial clustering, and a premium UI.
+</p>
+
+<p align="center">
+  <a href="https://segvision.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=radical&hide_border=true" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true" width="420" />
+</p>
+
+---
+
+## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanyam-katoch10&theme=radical&no-frame=true&row=1" />
 </p>
 
-<hr/>
+---
 
-<h2 align="center">🌐 Connect with Me</h2>
-<div align="center" style="margin:10px 0;">
-  <a href="https://github.com/sanyam-katoch10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<div align="center" style="margin:10px 0;">
-  <a href="https://www.linkedin.com/in/sanyam-katoch/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<div align="center" style="margin:10px 0;">
-  <a href="mailto:sanyamkatoch10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-<div align="center" style="margin:10px 0;">
-  <a href="https://leetcode.com/u/SamKat/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" />
-  </a>
-</div>
-
-
-<hr/>
-
-> 💡 **“Strive not to be a success, but rather to be of value.”**  
-> 🔹 **– Albert Einstein**
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sanyam-katoch10" target="_blank">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️-Sanyam%20Katoch-06B6D4?style=for-the-badge&logoColor=FF3CAC" />
+  <a href="https://github.com/sanyam-katoch10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanyam-katoch/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanyamkatoch10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/SamKat/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
-<!-- WEEKLY_ACTIVITY_START -->
+---
 
- Weekly GitHub Update
+> 💡 **“Strive not to be a success, but rather to be of value.”**  
+> — Albert Einstein
 
-• 4 commits pushed
-• 0 PRs merged
+---
 
-Consistency builds momentum. Let’s keep shipping. 
-
-<!-- WEEKLY_ACTIVITY_END -->
-<!-- SNAKE_START -->
-<p align='center'>
-  <img src='output/github-snake-dynamic.svg' width='700'/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_with_❤️-Sanyam_Katoch-8B5CF6?style=for-the-badge" />
 </p>
-<!-- SNAKE_END -->
+
+<p align="center">
+  © 2026 Sanyam Katoch
+</p>
