@@ -71,7 +71,7 @@ I build **ML-powered, scalable systems** — not just models.
 `Python` `TensorFlow` `CNN` `Streamlit`
 
 <p align="center">
-  <a href="https://botshield0captcha-sam.streamlit.app/">
+  <a href="https://bot0shield.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
