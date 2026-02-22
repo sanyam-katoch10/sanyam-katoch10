@@ -39,16 +39,14 @@ I build **ML-powered, scalable systems** — not just models.
 - 5D spatial feature embedding `[R,G,B,x,y]`
 - Real-time SSE streaming architecture
 - Threaded non-blocking backend
-- Deployed on Render
+- Deployed on Railway
 
 ### 🛠 Tech
 `Python` `Flask` `NumPy` `OpenCV` `SSE` `Threading`
 
-<p align="center">
-  <a href="https://segvision.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  </a>
-</p>
+<a href="https://segvision.up.railway.app">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</a>
 
 ---
 
@@ -66,6 +64,7 @@ I build **ML-powered, scalable systems** — not just models.
 - Adaptive usability vs bot resistance balance
 - Deployed ML pipeline
 - Real-time prediction system
+- Deployed on strwamlit
 
 ### 🛠 Tech
 `Python` `TensorFlow` `CNN` `Streamlit`
