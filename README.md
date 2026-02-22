@@ -123,3 +123,19 @@ I build **ML-powered, scalable systems** — not just models.
 <p align="center">
   © 2026 Sanyam Katoch
 </p>
+
+<!-- WEEKLY_ACTIVITY_START -->
+
+ Weekly GitHub Update
+
+• 45 commits pushed
+• 0 PRs merged
+
+Consistency builds momentum. Let’s keep shipping. 
+
+<!-- WEEKLY_ACTIVITY_END -->
+<!-- SNAKE_START -->
+<p align='center'>
+  <img src='output/github-snake-dynamic.svg' width='700'/>
+</p>
+<!-- SNAKE_END -->
