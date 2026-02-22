@@ -28,7 +28,7 @@ I build **ML-powered, scalable systems** — not just models.
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/SegViSion_PSO_Image_Segmentation_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam-katoch10&repo=SegViSion_PSO_Image_Segmentation_System&theme=tokyonight&border_radius=15&cache_seconds=1800" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=SegViSion_PSO_Image_Segmentation_System&theme=tokyonight&border_radius=15" />
   </a>
 </p>
 
