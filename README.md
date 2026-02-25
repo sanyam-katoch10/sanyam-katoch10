@@ -139,8 +139,11 @@ I build **ML-powered, scalable systems** — not just models.
 # 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true" width="420"/>
   <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=radical&hide_border=true" width="420"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true" width="420"/>
 </p>
 
 ---
