@@ -180,7 +180,11 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 <!-- WEEKLY_ACTIVITY_START -->
 <!-- WEEKLY_ACTIVITY_END -->
 <!-- SNAKE_START -->
-<p align='center'>
-  <img src='https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-dark.svg' width='700'/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake.svg" width="700">
+  </picture>
 </p>
 <!-- SNAKE_END -->
