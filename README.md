@@ -6,17 +6,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Systems+%26+Optimization+Focused;Building+Scalable+ML+Products" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sanyam-katoch10?label=Followers&style=for-the-badge&color=06B6D4&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=sanyam-katoch10&label=Profile%20Views&color=06B6D4&style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I build **ML-powered, scalable systems** — not just models.
+I build **ML-powered, scalable systems** — bridging the gap between high-level model research and low-level system optimization. Currently focused on **ML Systems**, **Backend Engineering**, and high-performance **DSA implementations**.
 
-- 🎓 Computer Science Student  
-- 🧠 Focused on Machine Learning & Optimization  
-- ⚙️ Interested in ML Systems & Backend Engineering  
-- 💼 Actively seeking ML / Software Engineering Internships  
-- 💬 C++ • Python • DSA • Web • ML  
+- 🎓 **Computer Science Student**  
+- 🧠 Focused on **Machine Learning & Optimization**  
+- ⚙️ Interested in **MLOps & High-Frequency Backend Systems**  
+- 💬 **C++ • Python • DSA • Web • ML**
+- 💼 **Actively seeking SDE / ML Engineering Internships**
 
 ---
 
