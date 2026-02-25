@@ -24,7 +24,7 @@ I build **ML-powered, scalable systems** — not just models.
 
 ---
 
-## ⎇ MiniGit — DSA-Based Version Control System (Deployed)
+## MiniGit — DSA-Based Version Control System (Deployed)
 
 > *Implements 7 DSA concepts from scratch — no external data structure libraries used*
 
@@ -53,7 +53,7 @@ I build **ML-powered, scalable systems** — not just models.
 
 ---
 
-## � SegViSion — PSO-Based Image Segmentation (Deployed)
+##  SegViSion — PSO-Based Image Segmentation (Deployed)
 
 > *Outperforms K-Means on noisy images by escaping local minima via swarm intelligence*
 
@@ -82,7 +82,7 @@ I build **ML-powered, scalable systems** — not just models.
 
 ---
 
-## 🤖 BotShield — ML CAPTCHA Refinement System (Deployed)
+## BotShield — ML CAPTCHA Refinement System (Deployed)
 
 > *Balances human usability with bot resistance using CNN-based adaptive refinement*
 
@@ -161,7 +161,7 @@ I build **ML-powered, scalable systems** — not just models.
 
 ---
 
-> "Strive not to be a success, but rather to be of value." — Albert Einstein
+> "Talk is cheap. Show me the code." — Linus Torvalds
 
 ---
 
@@ -170,14 +170,6 @@ I build **ML-powered, scalable systems** — not just models.
 </p>
 
 <!-- WEEKLY_ACTIVITY_START -->
-
- Weekly GitHub Update
-
-• 45 commits pushed
-• 0 PRs merged
-
-Consistency builds momentum. Let's keep shipping. 
-
 <!-- WEEKLY_ACTIVITY_END -->
 <!-- SNAKE_START -->
 <p align='center'>
