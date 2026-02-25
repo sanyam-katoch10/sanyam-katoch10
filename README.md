@@ -114,12 +114,18 @@ I build **ML-powered, scalable systems** — not just models.
 
 ### ML & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,keras,numpy,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,linux,docker,kali,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,linux,docker,github&theme=dark" />
 </p>
 
 ---
