@@ -1,0 +1,25 @@
+<svg width="280" height="60" viewBox="0 0 280 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with subtle border -->
+  <rect x="1" y="1" width="278" height="58" rx="29" fill="#0D1117" stroke="url(#paint0_linear)" stroke-width="2"/>
+  
+  <!-- Glowing effect simulation -->
+  <rect x="1" y="1" width="278" height="58" rx="29" stroke="url(#paint0_linear)" stroke-width="4" stroke-opacity="0.2"/>
+  
+  <!-- Premium Glass Reflect -->
+  <path d="M29 1H251C266.464 1 279 13.536 279 29V30C279 20 260 10 240 10H40C20 10 1 20 1 30V29C1 13.536 13.536 1 29 1Z" fill="white" fill-opacity="0.05"/>
+  
+  <!-- Icon: Modern Launch Arrow -->
+  <path d="M35 30H55M55 30L48 23M55 30L48 37" stroke="url(#paint0_linear)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Lettering -->
+  <text fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="0.1em">
+    <tspan x="72" y="35">E X P L O R E  P O R T F O L I O</tspan>
+  </text>
+  
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="30" x2="280" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+</svg>
