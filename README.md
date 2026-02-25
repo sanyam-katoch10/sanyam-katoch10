@@ -109,17 +109,17 @@ I build **ML-powered, scalable systems** — not just models.
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,html,css,javascript&theme=dark" />
 </p>
 
 ### ML & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,keras,numpy,pandas&theme=dark" />
 </p>
 
 ### Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,linux,docker,kali,github&theme=dark" />
 </p>
 
 ---
