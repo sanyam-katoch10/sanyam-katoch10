@@ -1,50 +1,62 @@
-<svg width="320" height="80" viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="340" height="84" viewBox="0 0 340 84" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Main Neon Gradient -->
-    <linearGradient id="neon_grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8B5CF6"/>
-      <stop offset="50%" stop-color="#D946EF"/>
-      <stop offset="100%" stop-color="#06B6D4"/>
-    </linearGradient>
+    <!-- Deep Space Background -->
+    <rect id="rect-shape" x="2" y="2" width="336" height="80" rx="40" />
     
-    <!-- Outer Glow -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
+    <!-- Mesh Gradient Simulation -->
+    <radialGradient id="aurora_purple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 80) rotate(-45) scale(200)">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+    
+    <radialGradient id="aurora_blue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 0) rotate(135) scale(200)">
+      <stop offset="0" stop-color="#06B6D4" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0" />
+    </radialGradient>
 
-    <!-- Sub-Glow for Text -->
-    <filter id="text_glow">
-      <feGaussianBlur stdDeviation="1.5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <!-- Animated Shine Mask -->
+    <linearGradient id="shine_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0" />
+      <stop offset="50%" stop-color="white" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="white" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="soft_glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
 
-  <!-- Main Body: Futuristic Angular Shape -->
-  <path d="M10 20 L290 20 L310 60 L30 60 Z" fill="#0F172A" stroke="url(#neon_grad)" stroke-width="2" filter="url(#glow)"/>
+  <!-- Button Base -->
+  <use href="#rect-shape" fill="#0A0A0A" />
+  <use href="#rect-shape" fill="url(#aurora_purple)" />
+  <use href="#rect-shape" fill="url(#aurora_blue)" />
   
-  <!-- Accent Corner Detail -->
-  <path d="M10 20 L40 20 L35 30 L12.5 30 Z" fill="url(#neon_grad)" opacity="0.8"/>
-  <path d="M280 50 L302.5 50 L310 60 L285 60 Z" fill="url(#neon_grad)" opacity="0.8"/>
+  <!-- Border -->
+  <rect x="2.5" y="2.5" width="335" height="79" rx="39.5" stroke="white" stroke-opacity="0.1" />
+  
+  <!-- Animated Shine -->
+  <rect x="2" y="2" width="336" height="80" rx="40" fill="url(#shine_grad)">
+    <animate attributeName="x" from="-340" to="340" dur="3s" repeatCount="indefinite" />
+  </rect>
 
-  <!-- Scanning Line Detail -->
-  <rect x="45" y="25" width="240" height="1" fill="url(#neon_grad)" opacity="0.3"/>
-  <rect x="35" y="55" width="240" height="1" fill="url(#neon_grad)" opacity="0.3"/>
+  <!-- Content Group -->
+  <g filter="url(##soft_glow)">
+    <!-- Minimalist Icon -->
+    <circle cx="50" cy="42" r="6" stroke="url(#paint0_linear)" stroke-width="1.5" />
+    <circle cx="50" cy="42" r="2" fill="url(#paint0_linear)" />
+    
+    <!-- Professional Spaced Typography -->
+    <text x="185" y="47" text-anchor="middle" fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" letter-spacing="0.3em" style="text-transform: uppercase;">
+      View Portfolio
+    </text>
+  </g>
 
-  <!-- Interaction Icon -->
-  <circle cx="55" cy="40" r="4" fill="url(#neon_grad)"/>
-  <circle cx="55" cy="40" r="8" stroke="url(#neon_grad)" stroke-opacity="0.3" stroke-width="1"/>
-
-  <!-- Main Text -->
-  <text x="175" y="45" text-anchor="middle" fill="white" font-family="monospace, Courier New" font-size="16" font-weight="900" letter-spacing="0.2em" filter="url(#text_glow)" style="text-transform: uppercase;">
-    Connect to Network
-  </text>
-
-  <!-- Animated-style dots -->
-  <circle cx="285" cy="40" r="2" fill="#06B6D4">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
-  </circle>
+  <defs>
+    <linearGradient id="paint0_linear" x1="44" y1="42" x2="56" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
 </svg>
