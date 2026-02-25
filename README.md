@@ -108,13 +108,19 @@ I build **ML-powered, scalable systems** — not just models.
 # 🛠 Core Skills
 
 ### Languages
-`C++` `Python` `Java`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
+</p>
 
 ### ML & Data
-`TensorFlow` `PyTorch` `NumPy` `Pandas` `OpenCV`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+</p>
 
 ### Systems & Tools
-`Flask` `Git` `Linux` `Docker`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,linux,docker&theme=dark" />
+</p>
 
 ---
 
