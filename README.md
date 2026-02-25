@@ -173,6 +173,6 @@ I build **ML-powered, scalable systems** — not just models.
 <!-- WEEKLY_ACTIVITY_END -->
 <!-- SNAKE_START -->
 <p align='center'>
-  <img src='output/github-snake-dynamic.svg' width='700'/>
+  <img src='https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/output/github-snake-dark.svg' width='700'/>
 </p>
 <!-- SNAKE_END -->
