@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sanyam-katoch10?label=Followers&style=for-the-badge&color=06B6D4&logo=github&logoColor=white" />
+  
   <img src="https://komarev.com/ghpvc/?username=sanyam-katoch10&label=Profile%20Views&color=06B6D4&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I build **ML-powered, scalable systems** — bridging the gap between high-level model research and low-level system optimization. Currently focused on **ML Systems**, **Backend Engineering**, and high-performance **DSA implementations**.
 
@@ -23,15 +23,21 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 - 💬 **C++ • Python • DSA • Web • ML**
 - 💼 **Actively seeking SDE / ML Engineering Internships**
 
+<p align="center">
+  <a href="https://sanyamportfolio.netlify.app/">
+    <img src="assets/portfolio-launch.svg" width="320" />
+  </a>
+</p>
+
 ---
 
 # ⭐ Featured Projects
 
 ---
 
-## MiniGit — DSA-Based Version Control System (Deployed)
+## ⎇ MiniGit — DSA-Based Version Control System (Deployed)
 
-> *Implements 7 DSA concepts from scratch — no external data structure libraries used*
+> *A high-performance Version Control System implementing 7+ core Data Structures from scratch, featuring a FastAPI backend and a custom interactive terminal UI.*
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/Mini-Git-Version-Control-System">
@@ -141,14 +147,14 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 ---
 
-# 📊 GitHub Metrics
+#  GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=radical&hide_border=true" width="420"/>
-  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=radical&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=blue-green&hide_border=true" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=chartreuse-dark&hide_border=true" width="420"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=radical&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=midnight-purple&hide_border=true" width="420"/>
 </p>
 
 ---

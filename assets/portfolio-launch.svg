@@ -1,25 +1,50 @@
-<svg width="280" height="60" viewBox="0 0 280 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background with subtle border -->
-  <rect x="1" y="1" width="278" height="58" rx="29" fill="#0D1117" stroke="url(#paint0_linear)" stroke-width="2"/>
-  
-  <!-- Glowing effect simulation -->
-  <rect x="1" y="1" width="278" height="58" rx="29" stroke="url(#paint0_linear)" stroke-width="4" stroke-opacity="0.2"/>
-  
-  <!-- Premium Glass Reflect -->
-  <path d="M29 1H251C266.464 1 279 13.536 279 29V30C279 20 260 10 240 10H40C20 10 1 20 1 30V29C1 13.536 13.536 1 29 1Z" fill="white" fill-opacity="0.05"/>
-  
-  <!-- Icon: Modern Launch Arrow -->
-  <path d="M35 30H55M55 30L48 23M55 30L48 37" stroke="url(#paint0_linear)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-  
-  <!-- Lettering -->
-  <text fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="0.1em">
-    <tspan x="72" y="35">E X P L O R E  P O R T F O L I O</tspan>
-  </text>
-  
+<svg width="320" height="80" viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="paint0_linear" x1="0" y1="30" x2="280" y2="30" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset="1" stop-color="#06B6D4"/>
+    <!-- Main Neon Gradient -->
+    <linearGradient id="neon_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#D946EF"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
     </linearGradient>
+    
+    <!-- Outer Glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Sub-Glow for Text -->
+    <filter id="text_glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
+
+  <!-- Main Body: Futuristic Angular Shape -->
+  <path d="M10 20 L290 20 L310 60 L30 60 Z" fill="#0F172A" stroke="url(#neon_grad)" stroke-width="2" filter="url(#glow)"/>
+  
+  <!-- Accent Corner Detail -->
+  <path d="M10 20 L40 20 L35 30 L12.5 30 Z" fill="url(#neon_grad)" opacity="0.8"/>
+  <path d="M280 50 L302.5 50 L310 60 L285 60 Z" fill="url(#neon_grad)" opacity="0.8"/>
+
+  <!-- Scanning Line Detail -->
+  <rect x="45" y="25" width="240" height="1" fill="url(#neon_grad)" opacity="0.3"/>
+  <rect x="35" y="55" width="240" height="1" fill="url(#neon_grad)" opacity="0.3"/>
+
+  <!-- Interaction Icon -->
+  <circle cx="55" cy="40" r="4" fill="url(#neon_grad)"/>
+  <circle cx="55" cy="40" r="8" stroke="url(#neon_grad)" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Main Text -->
+  <text x="175" y="45" text-anchor="middle" fill="white" font-family="monospace, Courier New" font-size="16" font-weight="900" letter-spacing="0.2em" filter="url(#text_glow)" style="text-transform: uppercase;">
+    Connect to Network
+  </text>
+
+  <!-- Animated-style dots -->
+  <circle cx="285" cy="40" r="2" fill="#06B6D4">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
+  </circle>
 </svg>
