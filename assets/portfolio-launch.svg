@@ -42,7 +42,7 @@
   </rect>
 
   <!-- Content Group -->
-  <g filter="url(##soft_glow)">
+  <g filter="url(#soft_glow)">
     <!-- Minimalist Icon -->
     <circle cx="50" cy="42" r="6" stroke="url(#paint0_linear)" stroke-width="1.5" />
     <circle cx="50" cy="42" r="2" fill="url(#paint0_linear)" />
