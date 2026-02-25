@@ -78,6 +78,33 @@ I build **ML-powered, scalable systems** — not just models.
 
 ---
 
+## ⎇ MiniGit — DSA-Based Version Control System (Deployed)
+
+<p align="center">
+  <a href="https://github.com/sanyam-katoch10/Mini-Git-Version-Control-System">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=Mini-Git-Version-Control-System&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+
+### 🔍 Highlights
+
+- **7 DSA concepts** built from scratch — Tree, Stack, LinkedList, Hash, Recursion, Array, Backtracking
+- Interactive terminal UI mimicking real Git CLI
+- 13 REST API endpoints with FastAPI
+- Full branching, merging, undo/redo, revert
+- Deployed on Render
+
+### 🛠 Tech
+`Python` `FastAPI` `JavaScript` `HTML/CSS` `DSA`
+
+<p align="center">
+  <a href="https://mini-git-dsa.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+</p>
+
+---
+
 # 🛠 Core Skills
 
 ### Languages
