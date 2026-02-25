@@ -35,9 +35,9 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 ---
 
-## ⎇ MiniGit — DSA-Based Version Control System (Deployed)
+## MiniGit — DSA-Based Version Control System (Deployed)
 
-> *A high-performance Version Control System implementing 7+ core Data Structures from scratch, featuring a FastAPI backend and a custom interactive terminal UI.*
+> *Implements 7 DSA concepts from scratch — no external libraries*
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/Mini-Git-Version-Control-System">
