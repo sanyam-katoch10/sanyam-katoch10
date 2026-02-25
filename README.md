@@ -24,7 +24,38 @@ I build **ML-powered, scalable systems** — not just models.
 
 ---
 
-## 🧠 SegViSion — PSO-Based Image Segmentation (Deployed)
+## ⎇ MiniGit — DSA-Based Version Control System (Deployed)
+
+> *Implements 7 DSA concepts from scratch — no external data structure libraries used*
+
+<p align="center">
+  <a href="https://github.com/sanyam-katoch10/Mini-Git-Version-Control-System">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=Mini-Git-Version-Control-System&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+
+### 🔍 Highlights
+
+- **7 DSA concepts** built from scratch — Tree, Stack, LinkedList, Hash, Recursion, Array, Backtracking
+- Interactive terminal UI mimicking real Git CLI
+- 13 REST API endpoints with FastAPI
+- Full branching, merging, undo/redo, revert
+- Deployed on Render
+
+### 🛠 Tech
+`Python` `FastAPI` `JavaScript` `HTML/CSS` `DSA`
+
+<p align="center">
+  <a href="https://mini-git-dsa.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## � SegViSion — PSO-Based Image Segmentation (Deployed)
+
+> *Outperforms K-Means on noisy images by escaping local minima via swarm intelligence*
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/SegViSion_PSO_Image_Segmentation_System">
@@ -53,6 +84,8 @@ I build **ML-powered, scalable systems** — not just models.
 
 ## 🤖 BotShield — ML CAPTCHA Refinement System (Deployed)
 
+> *Balances human usability with bot resistance using CNN-based adaptive refinement*
+
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=15" />
@@ -73,33 +106,6 @@ I build **ML-powered, scalable systems** — not just models.
 <p align="center">
   <a href="https://bot0shield.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⎇ MiniGit — DSA-Based Version Control System (Deployed)
-
-<p align="center">
-  <a href="https://github.com/sanyam-katoch10/Mini-Git-Version-Control-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=Mini-Git-Version-Control-System&theme=tokyonight&border_radius=15" />
-  </a>
-</p>
-
-### 🔍 Highlights
-
-- **7 DSA concepts** built from scratch — Tree, Stack, LinkedList, Hash, Recursion, Array, Backtracking
-- Interactive terminal UI mimicking real Git CLI
-- 13 REST API endpoints with FastAPI
-- Full branching, merging, undo/redo, revert
-- Deployed on Render
-
-### 🛠 Tech
-`Python` `FastAPI` `JavaScript` `HTML/CSS` `DSA`
-
-<p align="center">
-  <a href="https://mini-git-dsa.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Render-000000?style=for-the-badge&logo=render&logoColor=white" />
   </a>
 </p>
 
@@ -155,7 +161,7 @@ I build **ML-powered, scalable systems** — not just models.
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” — Albert Einstein
+> "Strive not to be a success, but rather to be of value." — Albert Einstein
 
 ---
 
@@ -170,7 +176,7 @@ I build **ML-powered, scalable systems** — not just models.
 • 45 commits pushed
 • 0 PRs merged
 
-Consistency builds momentum. Let’s keep shipping. 
+Consistency builds momentum. Let's keep shipping. 
 
 <!-- WEEKLY_ACTIVITY_END -->
 <!-- SNAKE_START -->
