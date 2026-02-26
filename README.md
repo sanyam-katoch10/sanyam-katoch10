@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Systems+%26+Optimization+Focused;Building+Scalable+ML+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Software+Developer+In+Progress;Systems+%26+Optimization+Focused;Building+Scalable+ML+Products" />
 </p>
 
 <p align="center">
