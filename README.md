@@ -175,6 +175,27 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" title="Pull Shark">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" alt="YOLO" title="YOLO">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aeb8ff89.png" width="100" alt="Quickdraw" title="Quickdraw">
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="100" alt="Starstruck" title="Starstruck">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579e4f22b0a3.png" width="100" alt="Pair Extraordinaire" title="Pair Extraordinaire">
+</div>
+
+| Achievement | Description |
+|:-----------:|:------------|
+| 🦈 **Pull Shark** | Opened pull requests that have been merged |
+| 🤠 **YOLO** | Merged a pull request without code review |
+| ⚡ **Quickdraw** | Closed an issue / PR within 5 minutes of opening |
+| 🌟 **Starstruck** | Repository received stars from the community |
+| 👥 **Pair Extraordinaire** | Co-authored commits on merged pull requests |
+
+
+---
+
 > "Talk is cheap. Show me the code." — Linus Torvalds
 
 ---
