@@ -16,7 +16,7 @@
 
 ##  About Me
 
-<img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" align="right" width="180" />
+<img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" align="right" width="30%" />
 
 I build **ML-powered, scalable systems** — bridging the gap between high-level model research and low-level system optimization. Currently focused on **ML Systems**, **Backend Engineering**, and high-performance **DSA implementations**.
 
