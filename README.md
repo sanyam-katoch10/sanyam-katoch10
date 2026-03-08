@@ -131,7 +131,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 ### ML & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,seaborn&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -142,7 +142,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 ### Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,linux,docker,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,linux,kali,docker&theme=dark" />
 </p>
 
 ---
