@@ -16,6 +16,8 @@
 
 ##  About Me
 
+<img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" align="right" width="150" />
+
 I build **ML-powered, scalable systems** — bridging the gap between high-level model research and low-level system optimization. Currently focused on **ML Systems**, **Backend Engineering**, and high-performance **DSA implementations**.
 
 - 🎓 **Computer Science Student**  
@@ -152,20 +154,30 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
   <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,linux,kali&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,googlecloud,jupyter,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,googlecloud,anaconda&theme=dark" />
 </p>
 
 ---
 
 #  GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=blue-green&hide_border=true" width="420"/>
-  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=chartreuse-dark&hide_border=true" width="420"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=midnight-purple&hide_border=true" width="420"/>
-</p>
+<table width="100%">
+<tr>
+<td width="20%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/fcdHI7RUROQAAAAj/manimarcus.gif" width="150" />
+
+</td>
+<td width="80%" align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=blue-green&hide_border=true" width="420"/>
+<img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=chartreuse-dark&hide_border=true" width="420"/>
+<br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=midnight-purple&hide_border=true" width="420"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
