@@ -145,6 +145,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
+
 ### Systems & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,linux,kali,docker,aws,googlecloud&theme=dark" />
