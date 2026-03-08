@@ -162,11 +162,11 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 #  GitHub Metrics
 
 
-<td width="20%" align="center" valign="middle">
+<p align="center">
 
 <img src="https://media.tenor.com/fcdHI7RUROQAAAAj/manimarcus.gif" width="150" />
 
-</td>
+</p>
 <p align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=blue-green&hide_border=true" width="420"/>
