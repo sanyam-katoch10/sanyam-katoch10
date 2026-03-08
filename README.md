@@ -131,7 +131,9 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 ### ML & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,mysql,oracle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,mysql&theme=dark" />
+![Oracle](https://img.shields.io)
+![PL/SQL](https://img.shields.io)
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
