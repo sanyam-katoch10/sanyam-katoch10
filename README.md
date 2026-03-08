@@ -201,3 +201,8 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
   </picture>
 </p>
 <!-- SNAKE_END -->
+
+<p align="center">
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&customColorList=0,2,6,12,20&height=120&section=footer" width="100%" />
+</p>
