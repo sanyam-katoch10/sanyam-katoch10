@@ -161,23 +161,19 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 #  GitHub Metrics
 
-<table width="100%">
-<tr>
+
 <td width="20%" align="center" valign="middle">
 
 <img src="https://media.tenor.com/fcdHI7RUROQAAAAj/manimarcus.gif" width="150" />
 
 </td>
-<td width="80%" align="center">
+<p align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=blue-green&hide_border=true" width="420"/>
 <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=chartreuse-dark&hide_border=true" width="420"/>
 <br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=midnight-purple&hide_border=true" width="420"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
