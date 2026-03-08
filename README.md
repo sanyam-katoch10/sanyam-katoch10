@@ -142,7 +142,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 ### Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,linux,kali,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,linux,kali,docker,Streamlit,render,aws,googlecloud&theme=dark" />
 </p>
 
 ---
