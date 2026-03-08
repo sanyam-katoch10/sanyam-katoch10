@@ -133,7 +133,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,mysql&theme=dark" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -141,6 +141,8 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
 </p>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white"/>
 
 ### Systems & Tools
 <p align="center">
