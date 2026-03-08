@@ -27,6 +27,9 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 - 💼 **Actively seeking SDE / ML Engineering Internships**
 
 <p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="30%" />
+</p>  
+<p align="center">
   <a href="https://sanyamportfolio.netlify.app/">
     <img src="assets/portfolio-launch.svg" width="320" />
   </a>
