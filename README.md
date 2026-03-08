@@ -6,7 +6,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Software+Developer+In+Progress;Systems+%26+Optimization+Focused;Building+Scalable+ML+Products" />
 </p>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="30%" />
+</p>  
 <p align="center">
   
   <img src="https://komarev.com/ghpvc/?username=sanyam-katoch10&label=Profile%20Views&color=06B6D4&style=for-the-badge" />
@@ -26,9 +28,6 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 - 💬 **C++ • Python • DSA • Web • ML**
 - 💼 **Actively seeking SDE / ML Engineering Internships**
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="30%" />
-</p>  
 <p align="center">
   <a href="https://sanyamportfolio.netlify.app/">
     <img src="assets/portfolio-launch.svg" width="320" />
