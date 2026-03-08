@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Software+Developer+In+Progress;Systems+%26+Optimization+Focused;Building+Scalable+ML+Products" />
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="35%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjUwaHdmaW1mZGlrbXExMnAxYjEwMHJ1aTFlazdrN2Nzam9seWcwNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="35%" />
 </p>  
 <p align="center">
   
