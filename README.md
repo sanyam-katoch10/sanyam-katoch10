@@ -140,7 +140,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-654FFO?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
 </p>
 
