@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=fadeIn&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:ffffff,25:E0AAFF,50:F7F7F7,75:FF85A1,100:FFB3C1&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=fadeIn&fontColor=000000">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header">
+  </picture>
 </p>
 
 <p align="center">
@@ -215,6 +219,11 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 </p>
 <!-- SNAKE_END -->
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Thanks%20for%20Scrolling!&fontSize=30&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Thanks%20for%20Scrolling!&fontSize=30&fontColor=ffffff&fontAlignY=65">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:ffffff,25:E0AAFF,50:F7F7F7,75:FF85A1,100:FFB3C1&text=Thanks%20for%20Scrolling!&fontSize=30&fontColor=000000&fontAlignY=65">
+    <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Thanks%20for%20Scrolling!&fontSize=30&fontColor=ffffff&fontAlignY=65" alt="Footer">
+  </picture>
 </p>
