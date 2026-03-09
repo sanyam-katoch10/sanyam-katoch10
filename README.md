@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:8B5CF6,100:06B6D4&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Hi,%20I'm%20Sanyam%20Katoch&fontSize=60&animation=fadeIn&fontColor=ffffff" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Software+Developer+In+Progress;Systems+%26+Optimization+Focused;Building+Scalable+ML+Products" />
@@ -217,6 +216,5 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 <!-- SNAKE_END -->
 
 <p align="center">
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&customColorList=0,2,6,12,20&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Thanks%20for%20Scrolling!&fontSize=30&fontColor=ffffff&fontAlignY=65" width="100%" />
 </p>
