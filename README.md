@@ -35,6 +35,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sanyam-katoch10&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile views" /> 
 </p>
+
 ---
 
 # ⭐ Featured Projects
