@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=sanyam-katoch10&show_icons=true&theme=blue-green&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -28,7 +28,7 @@ jobs:
           card: top-langs
           options: username=sanyam-katoch10&layout=compact&theme=midnight-purple&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate MiniGit pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -36,7 +36,7 @@ jobs:
           card: pin
           options: username=sanyam-katoch10&repo=Mini-Git-Version-Control-System&theme=tokyonight&border_radius=15
           path: profile/pin-minigit.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate SegViSion pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -44,7 +44,7 @@ jobs:
           card: pin
           options: username=sanyam-katoch10&repo=SegViSion_PSO_Image_Segmentation_System&theme=tokyonight&border_radius=15
           path: profile/pin-segvision.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate BotShield pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -52,7 +52,7 @@ jobs:
           card: pin
           options: username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=15
           path: profile/pin-botshield.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit cards
         run: |
