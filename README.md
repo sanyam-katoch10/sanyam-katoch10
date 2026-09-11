@@ -5,17 +5,12 @@
     <img src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/main/assets/dark.svg" alt="Sanyam Katoch — AI/ML & Software Engineer" width="1180" />
   </picture>
 </p>
-
-
 <p align="center">
-  <a href="https://sanyamportfolio.netlify.app/"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-launch-dark.svg"> 
-      <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-launch-light.svg"> 
-      <img src="assets/portfolio-launch-dark.svg" width="320" alt="View Portfolio" /> 
-    </picture> </a>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjUwaHdmaW1mZGlrbXExMnAxYjEwMHJ1aTFlazdrN2Nzam9seWcwNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="250" alt="coding animation" /> 
 </p> 
-<br clear="right"/>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sanyam-katoch10&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile views" /> 
+</p>
 
 ---
 
@@ -32,10 +27,14 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 - 💼 **Actively seeking SDE / ML Engineering Internships**
 
 <p align="center">
-  <a href="https://sanyamportfolio.netlify.app/">
-    <img src="assets/portfolio-launch.svg" width="320" />
-  </a>
-</p>
+  <a href="https://sanyamportfolio.netlify.app/"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-launch-dark.svg"> 
+      <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-launch-light.svg"> 
+      <img src="assets/portfolio-launch-dark.svg" width="320" alt="View Portfolio" /> 
+    </picture> </a>
+</p> 
+<br clear="right"/>
 
 ---
 
