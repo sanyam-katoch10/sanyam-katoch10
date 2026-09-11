@@ -5,9 +5,7 @@
     <img src="https://raw.githubusercontent.com/sanyam-katoch10/sanyam-katoch10/main/assets/dark.svg" alt="Sanyam Katoch — AI/ML & Software Engineer" width="1180" />
   </picture>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Hi%2C%20I%27m%20Sanyam%20Katoch&fontSize=60&fontColor=ffffff" alt="Header" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Software+Developer+In+Progress;Systems+%26+Optimization+Focused;Building+Scalable+ML+Products" />
@@ -223,9 +221,7 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 <!-- SNAKE_END -->
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:7B2CBF,50:1A1A1D,75:C3073F,100:950740&text=Thanks%20for%20Scrolling%21&fontSize=30&fontColor=ffffff&fontAlignY=65" alt="Footer" />
-</p>
+
 
 
 
