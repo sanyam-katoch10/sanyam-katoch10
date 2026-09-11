@@ -48,8 +48,8 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/Mini-Git-Version-Control-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=Mini-Git-Version-Control-System&theme=tokyonight&border_radius=15" />
-  </a>
+  <img src="profile/pin-minigit.svg" alt="MiniGit repo card" /> 
+</a>
 </p>
 
 ### 🔍 Highlights
@@ -75,10 +75,10 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 > *Outperforms K-Means on noisy images by escaping local minima via swarm intelligence*
 
-<p align="center">
-  <a href="https://github.com/sanyam-katoch10/SegViSion_PSO_Image_Segmentation_System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=SegViSion_PSO_Image_Segmentation_System&theme=tokyonight&border_radius=15" />
-  </a>
+<p align="center"> 
+  <a href="https://github.com/sanyam-katoch10/SegViSion_PSO_Image_Segmentation_System"> 
+  <img src="profile/pin-segvision.svg" alt="SegViSion repo card" /> 
+</a>
 </p>
 
 ### 🔍 What Makes It Strong
@@ -106,8 +106,8 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 <p align="center">
   <a href="https://github.com/sanyam-katoch10/BotShield_ML-CAPTCHA-Refinement-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanyam-katoch10&repo=BotShield_ML-CAPTCHA-Refinement-System&theme=tokyonight&border_radius=15" />
-  </a>
+    <img src="profile/pin-botshield.svg" alt="BotShield repo card" />
+  </a> 
 </p>
 
 ### 🔍 Highlights
@@ -167,18 +167,14 @@ I build **ML-powered, scalable systems** — bridging the gap between high-level
 
 
 <p align="center">
-
-<img src="https://media.tenor.com/fcdHI7RUROQAAAAj/manimarcus.gif" width="150" />
-
+  <img src="https://media.tenor.com/fcdHI7RUROQAAAAj/manimarcus.gif" width="150" alt="metrics banner" /> 
 </p>
 <p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyam-katoch10&show_icons=true&theme=blue-green&hide_border=true" width="420"/>
-<img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=chartreuse-dark&hide_border=true" width="420"/>
-<br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyam-katoch10&layout=compact&theme=midnight-purple&hide_border=true" width="420"/>
+  <img src="profile/stats.svg" width="420" alt="GitHub stats"/> 
+  <img src="https://streak-stats.demolab.com?user=sanyam-katoch10&theme=chartreuse-dark&hide_border=true" width="420" alt="GitHub streak stats"/>
+  <br>
+  <img src="profile/top-langs.svg" width="420" alt="Top languages"/> 
 </p>
-
 ---
 
 # 🌐 Connect With Me
