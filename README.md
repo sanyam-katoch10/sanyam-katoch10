@@ -8,8 +8,14 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanyam-katoch10&label=Profile%20Views&color=06B6D4&style=for-the-badge" />
-</p>
+  <a href="https://sanyamportfolio.netlify.app/"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-launch-dark.svg"> 
+      <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-launch-light.svg"> 
+      <img src="assets/portfolio-launch-dark.svg" width="320" alt="View Portfolio" /> 
+    </picture> </a>
+</p> 
+<br clear="right"/>
 
 ---
 
